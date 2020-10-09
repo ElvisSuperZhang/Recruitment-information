@@ -41,6 +41,10 @@
 |武汉工程大学邮电与信息工程学院|[链接](http://rl.witpt.edu.cn/ZhaoPin/)|10-08|:frowning:|09-22|
 |武昌工学院|[链接](http://rsc.wuit.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1047)|10-08|:frowning:|09-08|
 |武汉文理学院|[链接](http://rsb.whwl.edu.cn/rczp.htm)|10-08|:frowning:|06-12|
+|湖北商贸学院|[链接](http://rs.hbc.edu.cn/rczp.htm)|10-09|:frowning:|09-18|
+|武汉工程科技学院|[链接](http://rsc.wuhues.com/ckgd_rczp.htm)|10-09|:smiley:[链接](http://rsc.wuhues.com/ckgd_tzgg.htm)招聘信息竟然不发在官网上！|09-14|
+|武汉纺织大学外经贸学院|没有人事官网！|10-09|:smiley:[链接](http://www.gaoxiaojob.com/zhaopin/zhuanti/whfzdxwjmxy2019/index.html)这个行政岗感觉也可以试试|09-24|
+|武汉设计工程学院|http://www.wids.edu.cn/index.php/list/14.html|10-09|:smiley:[链接](http://www.wids.edu.cn/index.php/list/14.html)这是图书管理员的岗位|10-08|
 
 
 
