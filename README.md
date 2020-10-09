@@ -45,7 +45,8 @@
 |武汉工程科技学院|[链接](http://rsc.wuhues.com/ckgd_rczp.htm)|10-09|:smiley:[链接](http://rsc.wuhues.com/ckgd_tzgg.htm)招聘信息竟然不发在官网上！|09-14|
 |武汉纺织大学外经贸学院|没有人事官网！|10-09|:smiley:[链接](http://www.gaoxiaojob.com/zhaopin/zhuanti/whfzdxwjmxy2019/index.html)这个行政岗感觉也可以试试|09-24|
 |武汉设计工程学院|[链接](http://www.wids.edu.cn/index.php/list/14.html)|10-09|:smiley:[链接](http://www.wids.edu.cn/index.php/list/14.html)这是图书管理员的岗位|10-08|
-
+|武汉传媒学院|[链接](http://www.whmc.edu.cn/rsc/rsc_rczp/list-201.aspx)|10-09|:frowning:|06-15|
+|武汉体育学院体育科技学院|[链接](https://kjxy.whsu.edu.cn/tzgg.htm)又是没有专门的人事官网！|10-09|:frowning:|09-09|
 
 
 
