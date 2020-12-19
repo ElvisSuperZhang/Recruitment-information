@@ -4,8 +4,8 @@
 ### 一本学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
-| 武汉大学 | [链接](http://hr.whu.edu.cn/gljqtgwzp/aztjs.htm) | 12.19查看,没有 |
-| 华中科技大学 | 这里什么也没有 | :x:垃圾华科再见！！！:angry::broken_heart::sob:|
+| 武汉大学 | [链接](http://hr.whu.edu.cn/gljqtgwzp/aztjs.htm) | 12.19查看（[数院项目行政秘书](http://hr.whu.edu.cn/info/1071/1602.htm)）|
+| 华中科技大学 | 这里什么也没有 | :x:垃圾华科再见！！！:angry::broken_heart::sob: |
 | 华中师范大学 | [链接](http://hr.ccnu.edu.cn/rczp.htm)| :frowning: |
 | 武汉理工大学 | [链接](http://rshc.whut.edu.cn/rshc/more_news.jsp?id=43) | :frowning: |
 | 华中农业大学 | [链接](http://rs.hzau.edu.cn/zhaopin/product/recruit/post.jsp?FM_SYS_ID=hznydx) |:frowning: |
