@@ -37,7 +37,7 @@
 | 武汉秦川学院 | [链接](http://rsc.qcuwh.cn/tzgg.htm) | 12.19查看：没有合适的 |
 | 武汉科技大学城市学院 | [链接](http://www.city.wust.edu.cn/rlzyc/rlzyc_zpxx/list/201.aspx) | 12.19查看：没有合适的 |
 | 湖北工业大学工程技术学院 |[链接](https://gcxy.hbut.edu.cn/gcjs_rlzyb/rczp.htm) | 12.19查看：没有合适的 |
-| 武汉生物工程学院 |[链接](http://rsc.whsw.cn/article/?article/?type=list&classid=4) | 12.19查看：[辅导员-不要求党员！！](http://rsc.whsw.cn/article/?type=detail&id=1554) |
+| 武汉生物工程学院 |[链接](http://rsc.whsw.cn/article/?article/?type=list&classid=4) | 12.19查看：没有合适的 |
 | 武汉工程大学邮电与信息工程学院 |[没有人事官网](http://www.witpt.edu.cn/search?s=%E4%BA%BA%E4%BA%8B) | 12.19查看：没有合适的 |
 | 武昌工学院 |[链接](http://rsc.wuit.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1047) | 12.19查看：没有合适的 |
 | 武汉文理学院 |[链接](http://rsb.whwl.edu.cn/rczp.htm) | 12.19查看：没有合适的 |
@@ -62,13 +62,16 @@
 | 华东理工大学 | [链接](https://personnel.ecust.edu.cn/szxl/list.htm) | 12.19查看：没有合适的 |
 | 上海财经大学 | [链接](http://hrweb.sufe.edu.cn/2675/list.htm) | 12.19查看：没有合适的 |
 | 上海大学 | [链接](https://shuhr.shu.edu.cn:8003/) | 12.19查看：没有合适的 |
-
-
-
-
-
-
-
+| 东华大学 | [链接](http://web.dhu.edu.cn/rschu/5488/list.htm) | 12.19查看：没有合适的 |
+| 上海理工大学 | [链接](https://rc.usst.edu.cn/) | 12.19查看：[行政综合办公室秘书](https://rc.usst.edu.cn/2020/0909/c8954a229137/page.htm) |
+| 上海师范大学 | [链接](http://hr.shnu.edu.cn/20784/list.htm) | 12.19查看：没有合适的 |
+| 上海中医药大学 | [链接](https://rsc.shutcm.edu.cn/2641/list.htm) | 12.19查看：没有合适的 |
+| 华东政法大学 | [链接](https://rsc.ecupl.edu.cn/2107/list.htm) | 12.19查看：[中外合作办公室工作人员](https://rsc.ecupl.edu.cn/2020/0826/c2107a169871/page.htm) |
+| 上海海事大学 | [链接](http://hr.shmtu.edu.cn/cn/job) | 12.19查看：没有合适的 |
+| 上海海洋大学 | [链接](http://rczp.shou.edu.cn/product/recruit/defalt/recruitPost.jsp) | 12.19查看：没有合适的 |
+| 上海对外经贸大学 | [链接](http://www.suibe.edu.cn/rsc/3652/list.htm) | 12.19查看：没有合适的 |
+| 上海外国语大学 | [链接](http://www.ohr.shisu.edu.cn/rczp/list.htm) | 12.19查看：没有合适的 |
+| 上海音乐学院 | [链接](http://www.ohr.shisu.edu.cn/rczp/list.htm) | 12.19查看：没有合适的 |
 
 ### 二本学校
 ### 其他学校
