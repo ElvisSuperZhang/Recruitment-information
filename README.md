@@ -2,9 +2,9 @@
 ## 写在前面：高校人才网:[武汉](http://www.gaoxiaojob.com/zhaopin/chengshi/wuhan/) [上海](http://www.gaoxiaojob.com/zhaopin/diqu/shanghai/)
 ## 武汉
 ### 一本学校
-| 学校 | 网址  | 查看日期 | 结果（:smiley:表示有合适的；:frowning:表示没有） |最新信息时间|
+| 学校 | 人事网址  | 查看日期 | 信息（:smiley:表示有合适的；:frowning:表示没有） |备注|
 |:------------:|:---------------:|:-----:|:----:| :----:|
-| 武汉大学 | [链接](http://hr.whu.edu.cn/gljqtgwzp/aztjs.htm) |10-08  | :frowning: | 10-08|
+| 武汉大学 | [链接](http://hr.whu.edu.cn/gljqtgwzp/aztjs.htm) |10-08  | :frowning: | <font face="微软雅黑" color=red> 没有</font>|
 | 华中科技大学 | [链接](http://employment.hust.edu.cn/product/recruit/defalt/recruitNotice.jsp?FM_SYS_ID=hzkjdx) | 10-08 |:smiley:[链接](http://employment.hust.edu.cn/product/recruit/defalt/recruitNoticeView.jsp?FM_SYS_ID=hzkjdx&entityId=76) 这个感觉还可以呀| 10-07|
 | 华中师范大学 | [链接](http://hr.ccnu.edu.cn/rczp.htm)|10-08|:frowning:| 07-10|
 | 武汉理工大学 | [链接](http://rshc.whut.edu.cn/rshc/more_news.jsp?id=43)|10-08|:frowning:| 没有今年的|
