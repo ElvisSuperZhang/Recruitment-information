@@ -66,7 +66,7 @@
 | 上海理工大学 | [链接](https://rc.usst.edu.cn/) | 12.19查看：[行政综合办公室秘书](https://rc.usst.edu.cn/2020/0909/c8954a229137/page.htm) |
 | 上海师范大学 | [链接](http://hr.shnu.edu.cn/20784/list.htm) | 12.19查看：没有合适的 |
 | 上海中医药大学 | [链接](https://rsc.shutcm.edu.cn/2641/list.htm) | 12.19查看：没有合适的 |
-| 华东政法大学 | [链接](https://rsc.ecupl.edu.cn/2107/list.htm) | 12.19查看：[中外合作办公室工作人员](https://rsc.ecupl.edu.cn/2020/0826/c2107a169871/page.htm) |
+| 华东政法大学 | [链接](https://rsc.ecupl.edu.cn/2107/list.htm) | 12.19查看：没有合适的 |
 | 上海海事大学 | [链接](http://hr.shmtu.edu.cn/cn/job) | 12.19查看：没有合适的 |
 | 上海海洋大学 | [链接](http://rczp.shou.edu.cn/product/recruit/defalt/recruitPost.jsp) | 12.19查看：没有合适的 |
 | 上海对外经贸大学 | [链接](http://www.suibe.edu.cn/rsc/3652/list.htm) | 12.19查看：没有合适的 |
