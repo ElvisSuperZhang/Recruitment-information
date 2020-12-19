@@ -11,7 +11,7 @@
 | 华中农业大学 | [链接](http://rs.hzau.edu.cn/zhaopin/product/recruit/post.jsp?FM_SYS_ID=hznydx) | 12.19查看：没有合适的 |
 | 中南财经政法大学 | [链接](http://rsb.zuel.edu.cn/1276/list1.htm) | 12.19查看：没有合适的 |
 | 湖北大学 | [链接](http://zhaopin.hubu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=hbdx&postTypeCode=1) | 12.19查看：没有合适的 |
-| 武汉科技大学 | [链接](http://hrs.wust.edu.cn/zp/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=whkjdx&postTypeCode=3) | :12.19查看：财务处招聘打不开 |
+| 武汉科技大学 | [链接](http://hrs.wust.edu.cn/zp/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=whkjdx&postTypeCode=3) | 12.19查看：财务处招聘打不开 |
 | 中南民族大学 | [链接](http://www.scuec.edu.cn/s/19/t/912/p/4/list.htm) | 12.19查看：没有合适的 |
 | 湖北工业大学 | [链接](https://hr.hbut.edu.cn/ggjxw/tzgg.htm) | 12.19查看：没有合适的 |
 | 武汉纺织大学 | [链接](http://rsc.wtu.edu.cn/xwdt/zpxx.htm) | 12.19查看：没有合适的 |
