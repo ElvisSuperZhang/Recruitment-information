@@ -89,6 +89,25 @@
 
 ## 南京
 ### 一本学校
+| 学校 | 人事网址 | 信息 & 备注 |
+|:------------:|:---------------:|:-----:|
+| 南京大学 | [链接](https://rczp.nju.edu.cn/glgwjqt/glgwjqtzwlb/index.html) | 12.20查看：没有合适的 |
+| 东南大学 | [链接](https://rsc.seu.edu.cn/20174/list.htm) | 12.20查看：没有合适的 |
+| 河海大学 | [链接](http://rsc.hhu.edu.cn/5179/list.htm) | 12.20查看：没有合适的 |
+| 南京理工大学 | [链接](http://rczp.njust.edu.cn/rsfw/sys/zpglxt/extranet/index.do#/zpgs/2) | 12.20查看：没有合适的 |
+| 南京航空航天大学 | [链接](http://rsc.nuaa.edu.cn/381/list.htm) | 12.20查看：没有合适的 |
+| 南京财经大学 | [链接](http://rsc.nufe.edu.cn/xwtz.htm) | 12.20查看：没有合适的 |
+| 南京师范大学 | [链接](http://rsc.njnu.edu.cn/zpxx/dzglry.htm) | 12.20查看：没有合适的 |
+| 南京邮电大学 | [链接](http://rsc.njupt.edu.cn/587/list.htm) | 12.20查看：没有合适的 |
+| 南京审计大学 | [链接](http://zzrsb.nau.edu.cn/2899/list.htm) | 12.20查看：没有合适的 |
+| 南京工业大学 | [链接](http://rsc.njupt.edu.cn/587/list.htm) | 12.20查看：没有合适的 |
+| 中国药科大学 | [链接](http://rsc.cpu.edu.cn/4798/list.htm) | 12.20查看：没有合适的 |
+| 南京信息工程大学 | [链接](https://rsc.nuist.edu.cn/1166/list.htm) | 12.20查看：没有合适的 |
+| 南京林业大学 | [链接](https://renshi.njfu.edu.cn//rczp/index.html) | 12.20查看：没有合适的 |
+| 南京中医药大学 | [链接](http://rsc.njucm.edu.cn/page/sub.html?channel=8) | 12.20查看：没有合适的 |
+| 南京医科大学 | [链接](http://rsc.njmu.edu.cn/1993/list.htm) | 12.20查看：没有合适的 |
+
+
 ### 二本学校
 ### 其他学校
 
