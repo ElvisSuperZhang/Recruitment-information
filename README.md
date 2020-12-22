@@ -130,7 +130,14 @@
 
 ## 苏州
 ### 一本学校
+| 学校 | 人事网址 | 信息 & 备注 |
+|:------------:|:---------------:|:-----:|
+| 苏州大学 | [链接](http://rsc.suda.edu.cn/102/list.htm) | 12.22查看：没有合适的 |
+| 苏州科技大学 | [链接](http://hr.usts.edu.cn/xxgk.htm) | 12.22查看：没有合适的 |
+| 西交利物浦大学 | [链接](https://www.xjtlu.edu.cn/zh/about/job-opportunity/) | 12.22查看：[需要看一下](https://career15.sapsf.cn/career?career_company=xjtlu) |
+
 ### 二本学校
+
 ### 其他学校
 
 ## 杭州
