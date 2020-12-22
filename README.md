@@ -137,6 +137,8 @@
 | 西交利物浦大学 | [链接](https://www.xjtlu.edu.cn/zh/about/job-opportunity/) | 12.22查看：[需要看一下](https://career15.sapsf.cn/career?career_company=xjtlu) |
 
 ### 二本学校
+| 学校 | 人事网址 | 信息 & 备注 |
+|:------------:|:---------------:|:-----:|
 | 常熟理工学院 | [链接](https://zp.cslg.edu.cn/zpxx1/qtry.htm) | 12.22查看：没有合适的 |
 | 苏州大学文正学院 | [链接](http://rsc.sdwz.cn/342/list.htm) | 12.22查看：没有合适的 |
 | 苏州科技大学天平学院 | [链接](http://tpxy.usts.edu.cn/news/news_more.asp?lm2=31) | 12.22查看：[专职秘书](http://tpxy.usts.edu.cn/news/News_View.asp?NewsID=3898) |
