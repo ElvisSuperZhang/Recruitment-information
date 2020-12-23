@@ -141,7 +141,7 @@
 |:------------:|:---------------:|:-----:|
 | 常熟理工学院 | [链接](https://zp.cslg.edu.cn/zpxx1/qtry.htm) | 12.22查看：没有合适的 |
 | 苏州大学文正学院 | [链接](http://rsc.sdwz.cn/342/list.htm) | 12.22查看：没有合适的 |
-| 苏州科技大学天平学院 | [链接](http://tpxy.usts.edu.cn/news/news_more.asp?lm2=31) | 12.22查看：[专职秘书](http://tpxy.usts.edu.cn/news/News_View.asp?NewsID=3898)[第一个](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E8%8B%8F%E5%B7%9E%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%A4%A9%E5%B9%B3%E5%AD%A6%E9%99%A22020.12.22.png) |
+| 苏州科技大学天平学院 | [链接](http://tpxy.usts.edu.cn/news/news_more.asp?lm2=31) | 12.22查看：[专职秘书](http://tpxy.usts.edu.cn/news/News_View.asp?NewsID=3898):[第一个](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E8%8B%8F%E5%B7%9E%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%A4%A9%E5%B9%B3%E5%AD%A6%E9%99%A22020.12.22.png) |
 | 江苏科技大学苏州理工学院 | [链接](http://justsit.edu.cn/51/list.htm) | 12.22查看：没有合适的 |
 
 ### 其他学校
