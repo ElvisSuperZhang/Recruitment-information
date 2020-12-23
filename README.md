@@ -151,7 +151,11 @@
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
 | 浙江大学 | [链接](http://hr.zju.edu.cn/cn/29047/list.htm) | 12.23查看：[行政事务服务专员](http://hr.zju.edu.cn/cn/2020/1222/c29047a2237165/page.htm) |
-
+| 浙江工业大学 | [链接](http://www.rczp.zjut.edu.cn/130/list.htm) | 12.23查看：没有合适的 |
+| 中国计量大学 | [链接](https://rsc.cjlu.edu.cn/rczp1/fjxkyryzp.htm) | 12.23查看：没有合适的 |
+| 杭州电子科技大学 | [链接](http://renshi.hdu.edu.cn/2933/list.htm) | 12.23查看：没有合适的 |
+| 浙江理工大学 | [链接](http://news.zstu.edu.cn/zpxx.htm) | 12.23查看：没有合适的 |
+| 宁波大学 | [链接](http://rsc.nbu.edu.cn/xwzhongxin/zpgg.htm) | 12.23查看：没有合适的 |
 
 
 
