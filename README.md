@@ -23,7 +23,7 @@
 |:------------:|:---------------:|:-----:|
 | 江汉大学 | [链接](https://ieh.jhun.edu.cn/3105/list.htm) | 12.19查看：没有合适的 |
 | 湖北经济学院 | [链接](http://rsc.hbue.edu.cn/1342/list.htm) | 12.19查看：没有合适的 |
-| 湖北第二师范学院 | [链接1](ttp://rsc.hue.edu.cn/11725/list.psp) [链接2](https://zpjob.acabridge.cn/www/company/view?ordertype=desc&comid=2570) | 12.19查看：没有合适的 |
+| 湖北第二师范学院 | [链接1](http://rsc.hue.edu.cn/11725/list.psp) [链接2](https://zpjob.acabridge.cn/www/company/view?ordertype=desc&comid=2570) | 12.19查看：没有合适的 |
 | 武汉商学院 | [没有人事官网](https://www.wbu.edu.cn/2191/list.htm) | 12.19查看：没有合适的 |
 | 武汉体育学院 | [链接](https://rsc.whsu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1016) | 12.19查看：没有合适的 |
 | 武昌首义学院 | [链接](http://rsc.wsyu.edu.cn/info/iIndex.jsp?cat_id=10898) | 12.19查看：没有合适的 |
@@ -134,7 +134,7 @@
 |:------------:|:---------------:|:-----:|
 | 苏州大学 | [链接](http://rsc.suda.edu.cn/102/list.htm) | 12.22查看：没有合适的 |
 | 苏州科技大学 | [链接](http://hr.usts.edu.cn/xxgk.htm) | 12.22查看：没有合适的 |
-| 西交利物浦大学 | [链接](https://www.xjtlu.edu.cn/zh/about/job-opportunity/) | 12.22查看：[行政岗](https://career15.sapsf.cn/career?career%5fns=job%5flisting&company=xjtlu&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=1645&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=xi8DaBsu2UIiyaFhAZeHm%2bSe%2bR%2fg19U5owMh8C2jdDI%3d) |
+| 西交利物浦大学 | [链接](https://www.xjtlu.edu.cn/zh/about/job-opportunity/) | 12.22查看：没有合适的 |
 
 ### 二本学校
 | 学校 | 人事网址 | 信息 & 备注 |
@@ -161,6 +161,21 @@
 | 浙江中医药大学 | [链接](https://rsc.zcmu.edu.cn/rczp.htm) | 12.24查看：没有合适的 |
 
 ### 二本学校
+| 学校 | 人事网址 | 信息 & 备注 |
+|:------------:|:---------------:|:-----:|
+| 浙大城市学院 | [链接](http://zhaopin.zucc.edu.cn/index.portal?.ym=p64) | 12.24查看：[科研工作专员](http://zhaopin.zucc.edu.cn/independent.portal?.lm=pede743c84-9578-42b3-9dd8-73787f1488c1&.ms=view&action=bulletinBrowser&bulletinId=dc9834ef-aab2-4857-9e0e-a65084ca88c9) |
+| 浙江科技学院 | [链接](https://rsc.zust.edu.cn/dtzx/zpxx.htm) | 12.24查看：没有合适的 |
+| 浙江农林大学 | [链接](http://zafu.edu.wy5u.cn/info/notice/index) | 12.24查看：没有合适的 |
+| 浙江工业大学之江学院 | [链接](http://www.zzjc.edu.cn/n_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1026) | 12.24查看：没有合适的 |
+| 浙江外国语学院 | [链接](http://rsc.zisu.edu.cn/zpxx/zpgg.htm) | 12.24查看：没有合适的 |
+| 中国计量大学现代科技学院 | [链接](https://xdkj.cjlu.edu.cn/xxfw1/gsgg.htm) | 12.24查看：没有合适的 |
+| 浙江水利水电学院 | [链接](https://rsc.zjweu.edu.cn/zp/main.psp) | 12.24查看：没有合适的 |
+| 杭州师范大学钱江学院 | [链接](http://rczp.huqc.edu.cn/zpNew/indexPosition.do?urlFlag=1) | 12.24查看：没有合适的 |
+| 浙江工商大学杭州商学院 | [链接](http://www.zjhzcc.edu.cn/Class.asp?nid=78) | 12.24查看：没有合适的 |
+| 浙江树人学院 | [链接](https://www.zjsru.edu.cn/szdw/rczp/zpgg.htm) | 12.24查看：没有合适的 |
+| 杭州医学院学院 | [链接](http://rsc.hmc.edu.cn/) | 12.24查看：没有合适的 |
+| 杭州电子科技大学信息工程学院 | [链接](http://hzieeqsh.hdu.edu.cn/index.php?c=index&a=news_list&catid=94&web=organization) | 12.24查看：没有合适的 |
+| 浙江理工大学科技与艺术学院 | [链接](http://www.ky.zstu.edu.cn/index/tzgg.htm) | 12.24查看：没有合适的 |
 
 ### 其他学校
 
