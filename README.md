@@ -187,6 +187,12 @@
 | 电子科技大学 | [链接](http://www.jobs.uestc.edu.cn/gljqtgw/qtgw.htm) | 12.25查看：[研究员助理](http://www.jobs.uestc.edu.cn/info/1017/2012.htm) |
 | 西南交通大学 | [链接](https://rsc.swjtu.edu.cn/rszp/zpxx.htm) | 12.25查看：没有合适的 |
 | 成都理工大学 | [链接](http://rsc.cdut.edu.cn/rczp.htm) | 12.25查看：没有合适的 |
+| 西南财经大学 | [链接](https://rcpt.swufe.edu.cn/) | 12.25查看：没有合适的 |
+| 四川师范大学 | [链接](http://rsc.sicnu.edu.cn/p/10/) | 12.25查看：没有合适的 |
+| 西华大学 | [链接](http://rsc.sicnu.edu.cn/p/10/http://rsc.sicnu.edu.cn/p/10/) | 12.25查看：没有合适的 |
+| 西南民族大学 | [链接](http://zzrsb.swun.edu.cn/rczp/zpxx.htm) | 12.25查看：没有合适的 |
+| 成都信息工程大学 | [链接](http://rsc.cuit.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1251) | 12.25查看：没有合适的 |
+| 成都中医药大学 | [链接](https://cdutcm.edu.cn/rsc/rczp) | 12.25查看：没有合适的 |
 
 
 
