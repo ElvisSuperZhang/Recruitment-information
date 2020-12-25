@@ -181,6 +181,15 @@
 
 ## 成都
 ### 一本学校
+| 学校 | 人事网址 | 信息 & 备注 |
+|:------------:|:---------------:|:-----:|
+| 四川大学 | [链接](http://rsxxgl2.scu.edu.cn/recruit/scdxfrontIndex/index) | 12.25查看：没有合适的 |
+| 电子科技大学 | [链接](http://www.jobs.uestc.edu.cn/gljqtgw/qtgw.htm) | 12.25查看：[研究员助理](http://www.jobs.uestc.edu.cn/info/1017/2012.htm) |
+| 西南交通大学 | [链接](https://rsc.swjtu.edu.cn/rszp/zpxx.htm) | 12.25查看：没有合适的 |
+| 成都理工大学 | [链接](http://rsc.cdut.edu.cn/rczp.htm) | 12.25查看：没有合适的 |
+
+
+
 ### 二本学校
 ### 其他学校
 
