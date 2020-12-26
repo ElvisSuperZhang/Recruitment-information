@@ -254,10 +254,32 @@
 | 西南政法大学 | [链接](https://rsc.swupl.edu.cn/zxns/index.htm) | 12.26查看：没有合适的 |
 | 重庆邮电大学 | [链接](http://rsc.cqupt.edu.cn/rczp.htm) | 12.26查看：没有合适的 |
 | 重庆交通大学 | [链接](http://rsc.cqjtu.edu.cn/ejlby.jsp?urltype=tree.TreeTempUrl&wbtreeid=1055) | 12.26查看：[2.招生与就业工作处;3.管委会](http://rsc.cqjtu.edu.cn/info/1055/1934.htm)  [岗位]()|
-
+| 四川外国语大学 | [链接](http://rsc.sisu.edu.cn/tz.htm) | 12.26查看：没有合适的 |
+| 陆军军医大学 | [链接](https://www.tmmu.edu.cn/news.aspx?cid=1) | 12.26查看：没有合适的 |
 
 ### 二本学校
+| 学校 | 人事网址 | 信息 & 备注 |
+|:------------:|:---------------:|:-----:|
+| 重庆邮电大学移通学院 | [链接](http://rsc.cqyti.com/jobs.asp?pid=7) | 12.26查看：没有合适的 |
+| 重庆理工大学 | [链接](https://rsc.cqut.edu.cn/cpyc/zpjz.htm) | 12.26查看：没有合适的 |
+| 重庆大学城市科技学院 | [链接](http://www.cqucc.com.cn:8003/rsc/type/420111.html) | 12.26查看：没有合适的 |
+| 重庆工商大学 | [链接](https://rsc2014.ctbu.edu.cn/rczp1/yjjh.htm) | 12.26查看：没有合适的 |
+| 重庆师范大学 | [链接](https://rsc.cqnu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1050) | 12.26查看：没有合适的 |
+| 重庆科技学院| [链接](http://zzrsb.cqust.edu.cn/xwgg/wzgg.htm) | 12.26查看：没有合适的 |
+| 长江师范学院| [链接](http://rsc.yznu.cn/zpxx/list.htm) | 12.26查看：没有合适的 |
+| 重庆三峡学院| [链接](https://www.sanxiau.edu.cn/rsc/zxns/zxns.htm) | 12.26查看：没有合适的 |
+| 重庆工商大学融智学院 | [链接](http://www.cqrz.edu.cn/rczp/zpjh.htm) | 12.26查看：没有合适的 |
+| 重庆师范大学涉外商贸学院 | [链接](http://rsc.swsm.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1014) | 12.26查看：没有合适的 |
+| 重庆人文科技学院 | [链接](http://rsc.cqrk.edu.cn/index.php/item-list-category-15589.html) | 12.26查看：没有合适的 |
+| 重庆第二师范学院 | [链接](http://www.cque.edu.cn/rsc/zxnc.htm) | 12.26查看：没有合适的 |
+| 重庆工商大学派斯学院 | [链接](http://rsc.paisi.edu.cn/NewsClass.asp?BigClass=259) | 12.26查看：没有合适的 |
+| 四川外国语大学重庆南方翻译学院 | [链接](http://www.tcsisu.com/rsc/zhaopinxinxi/zhaopinxinxi/) | 12.26查看：没有合适的 |
+| 四川美术学院 | [链接](https://www.scfai.edu.cn/rsc/zpxx.htm) | 12.26查看：没有合适的 |
+
 ### 其他学校
+| 学校 | 人事网址 | 信息 & 备注 |
+|:------------:|:---------------:|:-----:|
+| 重庆工程职业技术学院 | [链接](https://www.cqvie.edu.cn/rsc/szdw/rcyj.htm) | 12.26查看：没有合适的 |
 
 
 
