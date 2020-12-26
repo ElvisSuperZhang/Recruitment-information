@@ -218,6 +218,16 @@
 
 ## 长沙
 ### 一本学校
+| 学校 | 人事网址 | 信息 & 备注 |
+|:------------:|:---------------:|:-----:|
+| 中南大学 | [链接](https://rsc.csu.edu.cn/rczp/jfglryz.htm) | 12.26查看：没有合适的 |
+| 国防科技大学 | [链接](https://www.nudt.edu.cn/rczp/index.htm) | 12.26查看：[研究生教务助理](https://www.nudt.edu.cn/rczp/fd7f2131aedf47b49ea26a9189a522cd.htm) |
+| 湖南大学 | [链接](http://jobs.hnu.edu.cn/zpgg.htm) | 12.26查看：没有合适的 |
+| 长沙理工大学 | [链接](https://www.csust.edu.cn/rsc/zpxx.htm) | 12.26查看：没有合适的 |
+| 湖南师范大学 | [链接](https://rsc.hunnu.edu.cn/title-list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1183) | 12.26查看：没有合适的 |
+
+
+
 ### 二本学校
 ### 其他学校
 
