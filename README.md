@@ -253,6 +253,7 @@
 | 重庆医科大学 | [链接](https://rsc.cqmu.edu.cn/rczp/zpxx.htm) | 12.26查看：没有合适的 |
 | 西南政法大学 | [链接](https://rsc.swupl.edu.cn/zxns/index.htm) | 12.26查看：没有合适的 |
 | 重庆邮电大学 | [链接](http://rsc.cqupt.edu.cn/rczp.htm) | 12.26查看：没有合适的 |
+| 重庆交通大学 | [链接](http://rsc.cqjtu.edu.cn/ejlby.jsp?urltype=tree.TreeTempUrl&wbtreeid=1055) | 12.26查看：[2.招生与就业工作处;3.管委会](http://rsc.cqjtu.edu.cn/info/1055/1934.htm)  [岗位]()|
 
 
 ### 二本学校
