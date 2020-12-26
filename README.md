@@ -246,6 +246,15 @@
 
 ## 重庆
 ### 一本学校
+| 学校 | 人事网址 | 信息 & 备注 |
+|:------------:|:---------------:|:-----:|
+| 西南大学 | [链接](http://renshi.swu.edu.cn/s/renshi/xwlm4/) | 12.26查看：没有合适的 |
+| 重庆大学 | [链接](http://rsc.cqu.edu.cn/news_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1039) | 12.26查看：没有合适的 |
+| 重庆医科大学 | [链接](https://rsc.cqmu.edu.cn/rczp/zpxx.htm) | 12.26查看：没有合适的 |
+| 西南政法大学 | [链接](https://rsc.swupl.edu.cn/zxns/index.htm) | 12.26查看：没有合适的 |
+| 重庆邮电大学 | [链接](http://rsc.cqupt.edu.cn/rczp.htm) | 12.26查看：没有合适的 |
+
+
 ### 二本学校
 ### 其他学校
 
