@@ -225,7 +225,9 @@
 | 湖南大学 | [链接](http://jobs.hnu.edu.cn/zpgg.htm) | 12.26查看：没有合适的 |
 | 长沙理工大学 | [链接](https://www.csust.edu.cn/rsc/zpxx.htm) | 12.26查看：没有合适的 |
 | 湖南师范大学 | [链接](https://rsc.hunnu.edu.cn/title-list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1183) | 12.26查看：没有合适的 |
-
+| 中南林业科技大学 | [链接](https://rscn.csuft.edu.cn/rczp_2836/zpxx/) | 12.26查看：没有合适的 |
+| 湖南中医药大学 | [链接](https://www.hnucm.edu.cn/search_list-lm.jsp?wbtreeid=1048) | 12.26查看：没有合适的 |
+| 湖南农业大学 | [链接](https://zp.hunau.edu.cn/product/recruit/defalt/recruitNotice.jsp?FM_SYS_ID=zpxt) | 12.26查看：没有合适的 |
 
 
 ### 二本学校
