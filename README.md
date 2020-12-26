@@ -196,9 +196,14 @@
 | 成都信息工程大学 | [链接](http://rsc.cuit.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1251) | 12.25查看：没有合适的 |
 | 成都中医药大学 | [链接](https://cdutcm.edu.cn/rsc/rczp) | 12.25查看：没有合适的 |
 
-
-
 ### 二本学校
+| 学校 | 人事网址 | 信息 & 备注 |
+|:------------:|:---------------:|:-----:|
+| 成都工业学院 | [链接](https://rsc.cdtu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1211) | 12.26查看：没有合适的 |
+| 四川大学锦城学院 | [链接](http://rsb.scujcc.cn/channels/22.html) | 12.26查看：没有合适的 |
+| 成都大学 | [链接](https://rsc.cdu.edu.cn/rczp/cgzp.htm) | 12.26查看：没有合适的 |
+
+
 ### 其他学校
 
 ## 长沙
