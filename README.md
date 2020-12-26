@@ -233,17 +233,14 @@
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
 | 中南林业科技大学涉外学院 | [链接](https://swxy.csuft.edu.cn/rsc/rcyj/) | 12.26查看：[17.人事处干事;21.图书馆;25.招生就业处、继续教育学院](https://swxy.csuft.edu.cn/rsc/rcyj/202010/t20201022_103948.html) |
-| 湖南理工学院 | [链接](https://rsc.hnist.cn/rsgz/zpxx.htm) | 12.26查看：没有合适的 |
-| 吉首大学 | [链接](https://renshichu.jsu.edu.cn/rcyj.htm) | 12.26查看：没有合适的 |
-| 湖南工程学院 | [链接](http://rsc.hnie.edu.cn/rczp.htm) | 12.26查看：没有合适的 |
 | 湖南工商大学 | [链接](http://rsc.hutb.edu.cn/column/gkzp/index.shtml) | 12.26查看：没有合适的 |
 | 长沙医学院 | [链接](http://part.csmu.edu.cn:82/rsc/index.php?_m=mod_article&_a=fullist&caa_id=31) | 12.26查看：没有合适的 |
-| 湘南学院 | [链接](https://rsc.xnu.edu.cn/12410) | 12.26查看：没有合适的 |
 | 长沙学院 | [链接](http://rsc.ccsu.cn/rczp/zpxx.htm) | 12.26查看：没有合适的 |
-| 邵阳学院 | [链接](http://www2.hnsyu.net/syxyrsc/zxqs/zpxx/) | 12.26查看：没有合适的 |
-| 湖南科技学院 | [链接](http://rsc.huse.cn/rczp/gkzp/) | 12.26查看：没有合适的 |
-
-
+| 湖南第一师范学院 | [链接](http://rsc.hnfnu.edu.cn/index/zpxx.htm) | 12.26查看：没有合适的 |
+| 湖南财政经济学院 | [链接](https://www.hufe.edu.cn/hncywz/listsvl?bmid=201&lmid=209&mbid=1) | 12.26查看：没有合适的 |
+| 湖南涉外经济学院 | [链接](http://rsc.hieu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1002) | 12.26查看：没有合适的 |
+| 湖南女子学院 | [链接](http://rczp.hnwu.edu.cn/index.portal?.ym=p162) | 12.26查看：没有合适的 |
+| 长沙师范学院 | [链接](http://rsc.cssf.cn/column/rcyj/index.shtml) | 12.26查看：没有合适的 |
 
 ### 其他学校
 
