@@ -207,7 +207,7 @@
 | 成都师范学院 | [链接](http://www.cdnu.edu.cn/RSC/channels/15899.html) | 12.26查看：没有合适的 |
 | 成都文理学院 | [链接](http://www.cdcas.edu.cn/rczp/rlzy.htm) | 12.26查看：[人事专员](http://www.cdcas.edu.cn/info/1273/17054.htm) |
 | 四川传媒学院 | [链接](http://rs.cdysxy.cn/25280/) | 12.26查看：[综合管理](http://rs.cdysxy.cn/2020_06/29_09/content-15828.html) |
-| 成都东软学院 | [链接](https://hr.nsu.edu.cn/f5d37d24-b7b8-475a-be31-ae9f1b67f945.html) | 12.26查看：[就业部招生干事](https://hr.nsu.edu.cn/2020/973DA709-495F-4280-986D-6B2B8B812441.html) |
+| 成都东软学院 | [链接](https://hr.nsu.edu.cn/f5d37d24-b7b8-475a-be31-ae9f1b67f945.html) | 12.26查看：[就业部招生干事,没有写投递方式，周中需要问一下](https://hr.nsu.edu.cn/2020/973DA709-495F-4280-986D-6B2B8B812441.html) |
 | 成都体育学院 | [链接](http://rczp.cdsu.edu.cn/product/recruit/website/RecruitPostNew.jsp) | 12.26查看：没有合适的 |
 | 西南交通大学希望学院 | [链接](http://www.swjtuhc.cn/list.aspx?l=43&p=1) | 12.26查看：没有合适的 |
 | 四川音乐学院 | [链接](http://www.sccm.cn/xwzx/list-53.html) | 12.26查看：没有合适的 |
@@ -232,7 +232,17 @@
 ### 二本学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
-| 中南林业科技大学涉外学院 | [链接](https://swxy.csuft.edu.cn/rsc/rcyj/) | 12.26查看：没有合适的 |
+| 中南林业科技大学涉外学院 | [链接](https://swxy.csuft.edu.cn/rsc/rcyj/) | 12.26查看：[17.人事处干事;21.图书馆;25.招生就业处、继续教育学院](https://swxy.csuft.edu.cn/rsc/rcyj/202010/t20201022_103948.html) |
+| 湖南理工学院 | [链接](https://rsc.hnist.cn/rsgz/zpxx.htm) | 12.26查看：没有合适的 |
+| 吉首大学 | [链接](https://renshichu.jsu.edu.cn/rcyj.htm) | 12.26查看：没有合适的 |
+| 湖南工程学院 | [链接](http://rsc.hnie.edu.cn/rczp.htm) | 12.26查看：没有合适的 |
+| 湖南工商大学 | [链接](http://rsc.hutb.edu.cn/column/gkzp/index.shtml) | 12.26查看：没有合适的 |
+| 长沙医学院 | [链接](http://part.csmu.edu.cn:82/rsc/index.php?_m=mod_article&_a=fullist&caa_id=31) | 12.26查看：没有合适的 |
+| 湘南学院 | [链接](https://rsc.xnu.edu.cn/12410) | 12.26查看：没有合适的 |
+| 长沙学院 | [链接](http://rsc.ccsu.cn/rczp/zpxx.htm) | 12.26查看：没有合适的 |
+| 邵阳学院 | [链接](http://www2.hnsyu.net/syxyrsc/zxqs/zpxx/) | 12.26查看：没有合适的 |
+| 湖南科技学院 | [链接](http://rsc.huse.cn/rczp/gkzp/) | 12.26查看：没有合适的 |
+
 
 
 ### 其他学校
