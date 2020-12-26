@@ -202,6 +202,16 @@
 | 成都工业学院 | [链接](https://rsc.cdtu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1211) | 12.26查看：没有合适的 |
 | 四川大学锦城学院 | [链接](http://rsb.scujcc.cn/channels/22.html) | 12.26查看：没有合适的 |
 | 成都大学 | [链接](https://rsc.cdu.edu.cn/rczp/cgzp.htm) | 12.26查看：没有合适的 |
+| 电子科技大学成都学院 | [链接](http://www.cduestc.cn/html/918/) | 12.26查看：没有合适的 |
+| 四川工商学院 | [链接](https://rsc.stbu.edu.cn/rcyj/) | 12.26查看：没有合适的 |
+| 成都师范学院 | [链接](http://www.cdnu.edu.cn/RSC/channels/15899.html) | 12.26查看：没有合适的 |
+| 成都文理学院 | [链接](http://www.cdcas.edu.cn/rczp/rlzy.htm) | 12.26查看：[人事专员](http://www.cdcas.edu.cn/info/1273/17054.htm) |
+| 四川传媒学院 | [链接](http://rs.cdysxy.cn/25280/) | 12.26查看：[综合管理](http://rs.cdysxy.cn/2020_06/29_09/content-15828.html) |
+| 成都东软学院 | [链接](https://hr.nsu.edu.cn/f5d37d24-b7b8-475a-be31-ae9f1b67f945.html) | 12.26查看：[就业部招生干事](https://hr.nsu.edu.cn/2020/973DA709-495F-4280-986D-6B2B8B812441.html) |
+| 成都体育学院 | [链接](http://rczp.cdsu.edu.cn/product/recruit/website/RecruitPostNew.jsp) | 12.26查看：没有合适的 |
+| 西南交通大学希望学院 | [链接](http://www.swjtuhc.cn/list.aspx?l=43&p=1) | 12.26查看：没有合适的 |
+| 四川音乐学院 | [链接](http://www.sccm.cn/xwzx/list-53.html) | 12.26查看：没有合适的 |
+| 四川旅游学院 | [链接](http://www.sctu.edu.cn/gjjs.jsp?wbtreeid=1007) | 12.26查看：没有合适的 |
 
 
 ### 其他学校
