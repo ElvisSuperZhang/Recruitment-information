@@ -229,8 +229,12 @@
 | 湖南中医药大学 | [链接](https://www.hnucm.edu.cn/search_list-lm.jsp?wbtreeid=1048) | 12.26查看：没有合适的 |
 | 湖南农业大学 | [链接](https://zp.hunau.edu.cn/product/recruit/defalt/recruitNotice.jsp?FM_SYS_ID=zpxt) | 12.26查看：没有合适的 |
 
-
 ### 二本学校
+| 学校 | 人事网址 | 信息 & 备注 |
+|:------------:|:---------------:|:-----:|
+| 中南林业科技大学涉外学院 | [链接](https://swxy.csuft.edu.cn/rsc/rcyj/) | 12.26查看：没有合适的 |
+
+
 ### 其他学校
 
 ## 重庆
