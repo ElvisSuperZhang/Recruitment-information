@@ -59,7 +59,13 @@
 | 武汉软件工程职业学院 | [链接](http://rsc.whvcse.edu.cn/rcyj.htm) | 12.28查看：没有合适的 |
 | 武汉城市职业学院 | [链接](http://rs.whcvc.edu.cn/1929/list.htm) | 12.28查看：没有合适的 |
 | 长江职业学院 | [链接](http://rsc.cjxy.edu.cn/rcyj.htm) | 12.28查看：没有合适的 |
-
+| 武汉工程职业技术学院 | [链接](https://xxgk.wgxy.net/25105/) | 12.28查看：没有合适的 |
+| 湖北城市建设职业技术学院 | [链接](https://www.hbucvc.edu.cn/xxgk/rsszxx.htm) | 12.28查看：没有合适的 |
+| 长江工程职业技术学院 | [链接](http://web.cj-edu.com.cn/rsc/ZClass_68.htm) | 12.28查看：没有合适的 |
+| 湖北水利水电职业技术学院 | [链接](http://www.hbsy.cn/rsc/gsgg.htm) | 12.28查看：没有合适的 |
+| 湖北科技职业学院 | [链接](http://rsc.hbswkj.com/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005) | 12.28查看：没有合适的 |
+| 武昌职业学院 | [链接](http://content.wczy.cn/Category_454/Index.aspx) | 12.28查看：没有合适的 |
+| 武汉商贸职业学院 | [链接](http://rsc.whicu.com/RCYJ/) | 12.28查看：没有合适的 |
 
 ## 上海
 ### 一本学校
