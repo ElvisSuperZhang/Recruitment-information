@@ -7,7 +7,6 @@
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
 | 武汉大学 | [链接](http://hr.whu.edu.cn/gljqtgwzp/aztjs.htm) | 12.28查看：没有合适的 |
-| 华中科技大学 | 这里什么也没有 | :x:垃圾华科再见！！！:angry::broken_heart::sob: |
 | 华中师范大学 | [链接](http://hr.ccnu.edu.cn/rczp.htm)| 12.28查看：没有合适的 |
 | 武汉理工大学 | [链接](http://rshc.whut.edu.cn/rshc/more_news.jsp?id=43) | 12.28查看：没有合适的 |
 | 华中农业大学 | [链接](http://rs.hzau.edu.cn/zhaopin/product/recruit/post.jsp?FM_SYS_ID=hznydx) | 12.28查看：没有合适的 |
