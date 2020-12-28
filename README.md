@@ -50,9 +50,17 @@
 | 武汉传媒学院 |[链接](http://www.whmc.edu.cn/rsc/rsc_rczp/list-201.aspx) | 12.19查看：没有合适的 |
 | 武汉体育学院体育科技学院 |[没有人事官网](https://kjxy.whsu.edu.cn/tzgg.htm) | 12.19查看：没有合适的 |
 
-
-
 ### 其他学校
+| 学校 | 人事网址 | 信息 & 备注 |
+|:------------:|:---------------:|:-----:|
+| 武汉职业技术学院 | [链接](https://rsc.wtc.edu.cn/2542/list.htm) | 12.28查看：没有合适的 |
+| 武汉铁路职业技术学院 | [链接](https://rsc.wru.edu.cn/rczp/rczp.htm) | 12.28查看：没有合适的 |
+| 武汉交通职业学院 | [链接](https://recjs.whtcc.edu.cn/ejlby.jsp?urltype=tree.TreeTempUrl&wbtreeid=1018) | 12.28查看：没有合适的 |
+| 武汉软件工程职业学院 | [链接](http://rsc.whvcse.edu.cn/rcyj.htm) | 12.28查看：没有合适的 |
+| 武汉城市职业学院 | [链接](http://rs.whcvc.edu.cn/1929/list.htm) | 12.28查看：没有合适的 |
+| 长江职业学院 | [链接](http://rsc.cjxy.edu.cn/rcyj.htm) | 12.28查看：没有合适的 |
+
+
 ## 上海
 ### 一本学校
 | 学校 | 人事网址 | 信息 & 备注 |
