@@ -71,7 +71,7 @@
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
 | 复旦大学 | [链接](http://www.hr.fudan.edu.cn/15367/list.htm) | 12.30查看：没有合适的 |
-| 上海交通大学 | [链接](https://join.sjtu.edu.cn/Default.aspx) | 12.30查看：[设计学院行政秘书-非事业编](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=8df5670820434cc2b4174e66d812d3c1); [生科院学生办文员-非事业编](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=bd7114ebfdf840e59b394932fa6f41fe); [电子信息与电气工程学院机关文员-非事业编](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=f8a3e760dc8f4c19b4c84abccae344b8) |
+| 上海交通大学 | [链接](https://join.sjtu.edu.cn/Default.aspx) | 12.30查看：[设计学院行政秘书-非事业编](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=8df5670820434cc2b4174e66d812d3c1);  [电子信息与电气工程学院机关文员-非事业编](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=f8a3e760dc8f4c19b4c84abccae344b8) |
 | 同济大学 | [链接](https://zp.tongji.edu.cn/index.htm) | 12.30查看：没有合适的 |
 | 华东师范大学 | [链接](http://hr.ecnu.edu.cn/s/116/t/209/p/1/c/3533/d/8800/list.htm) | 12.30查看：没有合适的 |
 | 华东理工大学 | [链接](https://personnel.ecust.edu.cn/szxl/list.htm) | 12.30查看：没有合适的 |
