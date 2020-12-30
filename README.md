@@ -83,7 +83,7 @@
 | 上海中医药大学 | [链接](https://rsc.shutcm.edu.cn/2641/list.htm) | 12.30查看：没有合适的 |
 | 华东政法大学 | [链接](https://rsc.ecupl.edu.cn/2107/list.htm) | 12.30查看：没有合适的 |
 | 上海海事大学 | [链接](http://hr.shmtu.edu.cn/cn/job) | 12.30查看：没有合适的 |
-| 上海海洋大学 | [链接](http://rczp.shou.edu.cn/product/recruit/defalt/recruitPost.jsp) | 12.30查看：没有合适的 |
+| 上海海洋大学 | [链接](https://rsrc.shou.edu.cn/_s136/main.psp) | 12.30查看：没有合适的 |
 | 上海对外经贸大学 | [链接](http://www.suibe.edu.cn/rsc/3652/list.htm) | 12.30查看：没有合适的 |
 | 上海外国语大学 | [链接](http://www.ohr.shisu.edu.cn/rczp/list.htm) | 12.30查看：没有合适的 |
 | 上海音乐学院 | [链接](https://rc.usst.edu.cn/2020/0909/c8954a229137/page.htm) | 12.30查看：没有合适的 |
