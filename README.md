@@ -70,23 +70,23 @@
 ### 一本学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
-| 复旦大学 | [链接](http://www.hr.fudan.edu.cn/15367/list.htm) | 12.19查看：没有合适的 |
-| 上海交通大学 | [链接](https://join.sjtu.edu.cn/Default.aspx) | 12.19查看：文员里面有一些劳动聘用的职位，但是需要咨询劳动聘用是什么意思 |
-| 同济大学 | [链接](https://zp.tongji.edu.cn/index.htm) | 12.19查看：没有合适的 |
-| 华东师范大学 | [链接](http://hr.ecnu.edu.cn/s/116/t/209/p/1/c/3533/d/8800/list.htm) | 12.19查看：没有合适的 |
-| 华东理工大学 | [链接](https://personnel.ecust.edu.cn/szxl/list.htm) | 12.19查看：没有合适的 |
-| 上海财经大学 | [链接](http://hrweb.sufe.edu.cn/2675/list.htm) | 12.19查看：没有合适的 |
-| 上海大学 | [链接](https://shuhr.shu.edu.cn:8003/) | 12.19查看：没有合适的 |
-| 东华大学 | [链接](http://web.dhu.edu.cn/rschu/5488/list.htm) | 12.19查看：没有合适的 |
-| 上海理工大学 | [链接](https://rc.usst.edu.cn/) | 12.19查看：[行政综合办公室秘书](https://rc.usst.edu.cn/2020/0909/c8954a229137/page.htm) |
-| 上海师范大学 | [链接](http://hr.shnu.edu.cn/20784/list.htm) | 12.19查看：没有合适的 |
-| 上海中医药大学 | [链接](https://rsc.shutcm.edu.cn/2641/list.htm) | 12.19查看：没有合适的 |
-| 华东政法大学 | [链接](https://rsc.ecupl.edu.cn/2107/list.htm) | 12.19查看：没有合适的 |
-| 上海海事大学 | [链接](http://hr.shmtu.edu.cn/cn/job) | 12.19查看：没有合适的 |
-| 上海海洋大学 | [链接](http://rczp.shou.edu.cn/product/recruit/defalt/recruitPost.jsp) | 12.19查看：没有合适的 |
-| 上海对外经贸大学 | [链接](http://www.suibe.edu.cn/rsc/3652/list.htm) | 12.19查看：没有合适的 |
-| 上海外国语大学 | [链接](http://www.ohr.shisu.edu.cn/rczp/list.htm) | 12.19查看：没有合适的 |
-| 上海音乐学院 | [链接](http://www.ohr.shisu.edu.cn/rczp/list.htm) | 12.19查看：没有合适的 |
+| 复旦大学 | [链接](http://www.hr.fudan.edu.cn/15367/list.htm) | 12.30查看：没有合适的 |
+| 上海交通大学 | [链接](https://join.sjtu.edu.cn/Default.aspx) | 12.30查看：[设计学院行政秘书-非事业编](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=8df5670820434cc2b4174e66d812d3c1); [生科院学生办文员-非事业编](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=bd7114ebfdf840e59b394932fa6f41fe); [电子信息与电气工程学院机关文员-非事业编](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=f8a3e760dc8f4c19b4c84abccae344b8) |
+| 同济大学 | [链接](https://zp.tongji.edu.cn/index.htm) | 12.30查看：没有合适的 |
+| 华东师范大学 | [链接](http://hr.ecnu.edu.cn/s/116/t/209/p/1/c/3533/d/8800/list.htm) | 12.30查看：没有合适的 |
+| 华东理工大学 | [链接](https://personnel.ecust.edu.cn/szxl/list.htm) | 12.30查看：没有合适的 |
+| 上海财经大学 | [链接](http://hrweb.sufe.edu.cn/2675/list.htm) | 12.30查看：没有合适的 |
+| 上海大学 | [链接](https://shuhr.shu.edu.cn:8003/) | 12.30查看：没有合适的 |
+| 东华大学 | [链接](http://web.dhu.edu.cn/rschu/5488/list.htm) | 12.30查看：没有合适的 |
+| 上海理工大学 | [链接](https://rc.usst.edu.cn/) | 12.30查看：没有合适的 |
+| 上海师范大学 | [链接](http://hr.shnu.edu.cn/20784/list.htm) | 12.30查看：没有合适的 |
+| 上海中医药大学 | [链接](https://rsc.shutcm.edu.cn/2641/list.htm) | 12.30查看：没有合适的 |
+| 华东政法大学 | [链接](https://rsc.ecupl.edu.cn/2107/list.htm) | 12.30查看：没有合适的 |
+| 上海海事大学 | [链接](http://hr.shmtu.edu.cn/cn/job) | 12.30查看：没有合适的 |
+| 上海海洋大学 | [链接](http://rczp.shou.edu.cn/product/recruit/defalt/recruitPost.jsp) | 12.30查看：没有合适的 |
+| 上海对外经贸大学 | [链接](http://www.suibe.edu.cn/rsc/3652/list.htm) | 12.30查看：没有合适的 |
+| 上海外国语大学 | [链接](http://www.ohr.shisu.edu.cn/rczp/list.htm) | 12.30查看：没有合适的 |
+| 上海音乐学院 | [链接](https://rc.usst.edu.cn/2020/0909/c8954a229137/page.htm) | 12.30查看：没有合适的 |
 
 ### 二本学校
 | 学校 | 人事网址 | 信息 & 备注 |
