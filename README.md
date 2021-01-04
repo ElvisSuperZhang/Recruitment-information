@@ -101,13 +101,12 @@
 | 上海海关学院 | [链接](https://rsc.shcc.edu.cn/691/list.htm) | 1.04查看：没有合适的 |
 | 上海商学院 | [链接](https://www.sbs.edu.cn/gbrsc/rczp/index.htm) | 1.04查看：没有合适的 |
 ### 其他学校
-
-
-
-
-
-
-
+| 学校 | 人事网址 | 信息 & 备注 |
+|:------------:|:---------------:|:-----:|
+| 上海建桥学院 | [链接](https://www.gench.edu.cn/rsc/747/list.htm) | 1.04查看：[校友会和基金会岗位工作人员](https://www.gench.edu.cn/rsc/2020/1201/c7356a97648/page.htm) |
+| 上海行健职业学院 | [链接](http://www.shxj.edu.cn/jgsz1/dzjg/rsc/rczp.htm) | 1.04查看：没有合适的 |
+| 上海工商外国语职业学院 | [链接](https://rsc.sicfl.edu.cn/main.htm) | 1.04查看：没有合适的 |
+| 上海立达职业技术学院 | [链接](http://www.lidapoly.edu.cn/znbm/rsc/A070202index_1.htm) | 1.04查看：[科研处 行政专员、信息学院 行政教秘](http://www.lidapoly.edu.cn/znbm/rsc/webinfo/2020/12/1610398098083871.htm) |
 
 ## 南京
 ### 一本学校
