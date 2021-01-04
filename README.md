@@ -91,16 +91,23 @@
 ### 二本学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
-| 上海电力学院 | [链接](https://rsc.shiep.edu.cn/1919/list.htm) | 12.19查看：没有合适的 |
-| 上海应用技术大学 | [链接](https://www.sit.edu.cn/_t344/13063/list.psp) | 12.19查看：没有合适的 |
-| 上海立信会计学院 | [链接](https://rsc.lixin.edu.cn/info/iList.jsp?cat_id=13160) | 12.19查看：没有合适的 |
-| 上海第二工业大学 | [链接](http://2016.hr.sspu.edu.cn/info/iList.jsp?cat_id=11735) | 12.19查看：没有合适的 |
-| 上海政法学院 | [链接](http://www.shupl.edu.cn/rsc/1404/list.htm) | 12.19查看：没有合适的 |
-| 上海金融学院 | [链接](https://rsc.lixin.edu.cn/info/iList.jsp?cat_id=10752) | 12.19查看：没有合适的 |
-| 上海电机学院 | [链接](https://hr.sdju.edu.cn/1690/list.htm) | 12.19查看：没有合适的 |
-| 上海海关学院 | [链接](https://rsc.shcc.edu.cn/691/list.htm) | 12.19查看：没有合适的 |
-| 上海商学院 | [链接](https://www.sbs.edu.cn/gbrsc/rczp/index.htm) | 12.19查看：没有合适的 |
+| 上海电力学院 | [链接](https://rsc.shiep.edu.cn/1919/list.htm) | 1.04查看：没有合适的 |
+| 上海应用技术大学 | [链接](https://www.sit.edu.cn/_t344/13063/list.psp) | 1.04查看：没有合适的 |
+| 上海立信会计学院 | [链接](https://rsc.lixin.edu.cn/info/iList.jsp?cat_id=13160) | 1.04查看：没有合适的 |
+| 上海第二工业大学 | [链接](http://2016.hr.sspu.edu.cn/info/iList.jsp?cat_id=11735) | 1.04查看：没有合适的 |
+| 上海政法学院 | [链接](http://www.shupl.edu.cn/rsc/1404/list.htm) | 1.04查看：没有合适的 |
+| 上海金融学院 | [链接](https://rsc.lixin.edu.cn/info/iList.jsp?cat_id=10752) | 1.04查看：没有合适的 |
+| 上海电机学院 | [链接](https://hr.sdju.edu.cn/1690/list.htm) | 1.04查看：没有合适的 |
+| 上海海关学院 | [链接](https://rsc.shcc.edu.cn/691/list.htm) | 1.04查看：没有合适的 |
+| 上海商学院 | [链接](https://www.sbs.edu.cn/gbrsc/rczp/index.htm) | 1.04查看：没有合适的 |
 ### 其他学校
+
+
+
+
+
+
+
 
 ## 南京
 ### 一本学校
