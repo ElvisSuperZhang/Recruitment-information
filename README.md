@@ -145,25 +145,41 @@
 | 南京体育学院 | [链接](http://www.nipes.cn/rsc/1246/list.htm) | 1.05查看：没有合适的 |
 | 江苏第二师范学院 | [链接](http://rsc.jssnu.edu.cn/1394/list.htm) | 1.05查看：没有合适的 |
 
-
-
 ### 其他学校
+| 学校 | 人事网址 | 信息 & 备注 |
+|:------------:|:---------------:|:-----:|
+| 南京工业职业技术大学 | [链接](http://rsc.niit.edu.cn/790/list.htm) | 1.06查看：没有合适的 |
+| 南京铁道职业技术学院 | [链接](http://rsczp.njrts.edu.cn/zp_wolf/zhaopin/gangweiML.html) | 1.06查看：[教学秘书](http://rsczp.njrts.edu.cn/zp_wolf/zhaopin/gwxq.html?RootBillID=102183&BillID=141) |
+| 南京工业职业技术大学 | [链接](http://rsc.niit.edu.cn/790/list.htm) | 1.06查看：没有合适的 |
+| 江苏海事职业技术学院 | [链接](http://www.jmi.edu.cn/2625/list.htm) | 1.06查看：没有合适的 |
+| 江苏卫生健康职业学院 | [链接](http://www.jssmu.edu.cn/zzrsc/1653/list.htm) | 1.06查看：没有合适的 |
+| 江苏经贸职业技术学院 | [链接](https://www.jvic.edu.cn/rsc/_t56/1687/list.htm) | 1.06查看：没有合适的 |
+| 南京信息职业技术学院 | [链接](http://xxgk.njcit.cn/tzgg/list.htm) | 1.06查看：没有合适的 |
+| 南京城市职业学院 | [链接](http://www.ncc.edu.cn/1670/list.htm) | 1.06查看：没有合适的 |
+| 南京交通职业技术学院 | [链接](http://www.njitt.edu.cn/rsc/rcyj/list.htm) | 1.06查看：没有合适的 |
+| 江苏城市职业学院(江苏开放大学) | [链接](http://www.jsou.cn/rsc/674/list.htm) | 1.06查看：没有合适的 |
+| 南京机电职业技术学院 | [链接](http://www.nimt.edu.cn/website/organization/train/list.jsp?moduleCode=human&code=humanrcyj) | 1.06查看：没有合适的 |
+| 南京科技职业学院 | [链接](http://www.njpi.edu.cn/rsc/587/list.htm) | 1.06查看：没有合适的 |
+| 钟山职业技术学院 | [链接](http://zzc.njzs.edu.cn/rczp.htm) | 1.06查看：没有合适的 |
+| 金肯职业技术学院 | [链接](http://rlzy.jku.edu.cn/Content.aspx?categoryid=38) | 1.06查看：没有合适的 |
+| 南京视觉艺术职业学院 | [链接](http://www.niva.cn/edu/channels/228.html) | 1.06查看：没有合适的 |
+
 
 ## 苏州
 ### 一本学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
-| 苏州大学 | [链接](http://rsc.suda.edu.cn/102/list.htm) | 12.22查看：没有合适的 |
-| 苏州科技大学 | [链接](http://hr.usts.edu.cn/xxgk.htm) | 12.22查看：没有合适的 |
-| 西交利物浦大学 | [链接](https://www.xjtlu.edu.cn/zh/about/job-opportunity/) | 12.22查看：没有合适的 |
+| 苏州大学 | [链接](http://rsc.suda.edu.cn/102/list.htm) | 1.06查看：没有合适的 |
+| 苏州科技大学 | [链接](http://hr.usts.edu.cn/xxgk.htm) | 1.06查看：没有合适的 |
+| 西交利物浦大学 | [链接](https://www.xjtlu.edu.cn/zh/about/job-opportunity/) | 1.06查看：没有合适的 |
 
 ### 二本学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
-| 常熟理工学院 | [链接](https://zp.cslg.edu.cn/zpxx1/qtry.htm) | 12.22查看：没有合适的 |
-| 苏州大学文正学院 | [链接](http://rsc.sdwz.cn/342/list.htm) | 12.22查看：没有合适的 |
-| 苏州科技大学天平学院 | [链接](http://tpxy.usts.edu.cn/news/news_more.asp?lm2=31) | 12.22查看：[专职秘书](http://tpxy.usts.edu.cn/news/News_View.asp?NewsID=3898)具体岗位：[第一个感觉应该可以](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E8%8B%8F%E5%B7%9E%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%A4%A9%E5%B9%B3%E5%AD%A6%E9%99%A22020.12.22.png) |
-| 江苏科技大学苏州理工学院 | [链接](http://justsit.edu.cn/51/list.htm) | 12.22查看：没有合适的 |
+| 常熟理工学院 | [链接](https://zp.cslg.edu.cn/zpxx1/qtry.htm) | 1.06查看：没有合适的 |
+| 苏州大学文正学院 | [链接](http://rsc.sdwz.cn/342/list.htm) | 1.06查看：没有合适的 |
+| 苏州科技大学天平学院 | [链接](http://tpxy.usts.edu.cn/news/news_more.asp?lm2=31) | 1.06查看：没有合适的 |
+| 江苏科技大学苏州理工学院 | [链接](http://justsit.edu.cn/51/list.htm) | 1.06查看：没有合适的 |
 
 ### 其他学校
 
