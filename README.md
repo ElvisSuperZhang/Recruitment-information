@@ -312,6 +312,21 @@
 
 
 ### 其他学校
+| 学校 | 人事网址 | 信息 & 备注 |
+|:------------:|:---------------:|:-----:|
+| 成都航空职业技术学院 | [链接](https://www.cap.edu.cn/campus/jgsz/gljg/dzqbm/zzrsb_1/rczp/) | 1.09查看：没有合适的 |
+| 四川交通职业技术学院 | [链接](http://zzrsc.svtcc.edu.cn/rczp/yjrc.htm) | 1.09查看：没有合适的 |
+| 成都职业技术学院 | [链接](https://www.cdp.edu.cn/zzrsc/zpxx.htm) | 1.09查看：没有合适的 |
+| 成都纺织高等专科学校 | [链接](https://rsc.cdtc.edu.cn/noleft_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1265) | 1.09查看：没有合适的 |
+| 成都农业科技职业学院 | [链接](http://www.cdnkxy.com/zzrsc/tzgg.htm) | 1.09查看：没有合适的 |
+| 四川文化产业职业学院 | [链接](https://rsc.svcci.cn/rsgz/jcdj.htm) | 1.09查看：没有合适的 |
+| 四川商务职业学院 | [链接](http://www.scsw.edu.cn/rsc/szjs/rczp.htm) | 1.09查看：没有合适的 |
+| 四川财经职业学院 | [链接](http://op.scpcfe.cn/rczp/rszp.htm) | 1.09查看：没有合适的 |
+| 四川城市职业学院 | [链接](http://rsc.scuvc.com/p/15/) | 1.09查看：没有合适的 |
+| 成都工贸职业技术学院 | [链接](https://rsc.cdgmxy.edu.cn/html/rsc/zpwj/index.html) | 1.09查看：没有合适的 |
+| 四川水利职业技术学院 | [链接](http://www.swcvc.edu.cn/xxgk/rs.htm) | 1.09查看：没有合适的 |
+| 四川科技职业学院 | [链接](http://rs.scstc.cn/peop_list_cid_13.html) | 1.09查看：没有合适的 |
+
 
 ## 长沙
 ### 一本学校
