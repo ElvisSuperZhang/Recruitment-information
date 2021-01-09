@@ -19,6 +19,8 @@
 | 武汉工程大学 | [链接](https://rsc.wit.edu.cn/rczp.htm) | 12.28查看：没有合适的 |
 | 湖北中医药大学 | [链接](https://rsc.hbtcm.edu.cn/rczp.htm) | 12.28查看：没有合适的 |
 | 武汉轻工大学 | [链接](http://rsc.whpu.edu.cn/index/tzgg.htm) | 12.28查看：没有合适的 |
+
+
 ### 二本学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
@@ -49,6 +51,7 @@
 | 武汉传媒学院 |[链接](http://www.whmc.edu.cn/rsc/rsc_rczp/list-201.aspx) | 12.28查看：没有合适的 |
 | 武汉体育学院体育科技学院 |[链接](https://kjxy.whsu.edu.cn/tzgg.htm) | 12.28查看：没有合适的 |
 
+
 ### 其他学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
@@ -65,6 +68,7 @@
 | 湖北科技职业学院 | [链接](http://rsc.hbswkj.com/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005) | 12.28查看：没有合适的 |
 | 武昌职业学院 | [链接](http://content.wczy.cn/Category_454/Index.aspx) | 12.28查看：没有合适的 |
 | 武汉商贸职业学院 | [链接](http://rsc.whicu.com/RCYJ/) | 12.28查看：没有合适的 |
+
 
 ## 上海
 ### 一本学校
@@ -88,6 +92,7 @@
 | 上海外国语大学 | [链接](http://www.ohr.shisu.edu.cn/rczp/list.htm) | 12.30查看：没有合适的 |
 | 上海音乐学院 | [链接](https://rc.usst.edu.cn/2020/0909/c8954a229137/page.htm) | 12.30查看：没有合适的 |
 
+
 ### 二本学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
@@ -100,6 +105,7 @@
 | 上海电机学院 | [链接](https://hr.sdju.edu.cn/1690/list.htm) | 1.04查看：没有合适的 |
 | 上海海关学院 | [链接](https://rsc.shcc.edu.cn/691/list.htm) | 1.04查看：没有合适的 |
 | 上海商学院 | [链接](https://www.sbs.edu.cn/gbrsc/rczp/index.htm) | 1.04查看：没有合适的 |
+
 
 ### 其他学校
 | 学校 | 人事网址 | 信息 & 备注 |
@@ -114,6 +120,16 @@
 | 上海城建职业学院 | [链接](https://www.succ.edu.cn/rsc/Home/Type/type/lmid/1b6501234192c95b23536d1162465745) | 1.09查看：没有合适的 |
 | 上海东海职业技术学院 | [链接](https://hr.esu.edu.cn/295/list.htm) | 1.09查看：没有合适的 |
 | 上海电子信息职业技术学院 | [链接](http://xxgk.stiei.edu.cn/1280/list.htm) | 1.09查看：没有合适的 |
+| 上海济光职业技术学院 | [链接](https://www.shjgu.edu.cn/237/list.htm) | 1.09查看：没有合适的 |
+| 上海出版印刷高等专科学校 | [链接](http://zhaopin.sppc.edu.cn/#!/index.html) | 1.09查看：没有合适的 |
+| 上海工艺美术职业学院 | [链接](http://rsc.sada.edu.cn/zpgw/list.htm) | 1.09查看：没有合适的 |
+| 上海科学技术职业学院 | [链接](http://www.scst.edu.cn/rsc/1119/list.htm) | 1.09查看：没有合适的 |
+| 上海工商职业技术学院 | [链接](http://hr.sicp.edu.cn/24470/) | 1.09查看：没有合适的 |
+| 上海中侨职业技术大学 | [链接](http://117.144.202.154/_s30/547/list1.psp) | 1.09查看：没有合适的 |
+| 上海交通职业技术学院 | [链接](http://www.scp.edu.cn/list.aspx?nid=130&cid=329) | 1.09查看：没有合适的 |
+| 上海思博职业技术学院 | [链接](http://edu.shsipo.com/) | 1.09查看：没有合适的 |
+| 上海农林职业技术学院 | [链接](https://rsc.shafc.edu.cn/rczp/list.htm) | 1.09查看：没有合适的 |
+
 
 ## 南京
 ### 一本学校
@@ -152,6 +168,7 @@
 | 南京体育学院 | [链接](http://www.nipes.cn/rsc/1246/list.htm) | 1.05查看：没有合适的 |
 | 江苏第二师范学院 | [链接](http://rsc.jssnu.edu.cn/1394/list.htm) | 1.05查看：没有合适的 |
 
+
 ### 其他学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
@@ -188,16 +205,24 @@
 | 苏州科技大学天平学院 | [链接](http://tpxy.usts.edu.cn/news/news_more.asp?lm2=31) | 1.06查看：没有合适的 |
 | 江苏科技大学苏州理工学院 | [链接](http://justsit.edu.cn/51/list.htm) | 1.06查看：没有合适的 |
 
+
 ### 其他学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
 | 苏州卫生职业技术学院 | [链接](https://www.szhct.edu.cn/xueyuangonggao/) | 1.07查看：没有合适的 |
 | 苏州工业职业技术学院 | [链接](http://rsszc.siit.edu.cn/1236/list.htm) | 1.07查看：没有合适的 |
 | 苏州托普信息职业技术学院 | [链接](http://www.szetop.com/list.html?HType=2&CId=2342) | 1.07查看：没有合适的 |
-| 苏州经贸职业学院 | [链接](https://www.szjm.edu.cn/rsc/rcdw/rcyj.htm) | 1.07查看：没有合适的 |
+| 苏州经贸职业技术学院 | [链接](https://www.szjm.edu.cn/rsc/rcdw/rcyj.htm) | 1.07查看：没有合适的 |
 | 苏州市职业大学 | [链接](https://www.jssvc.edu.cn/zpxx/) | 1.07查看：没有合适的 |
 | 苏州工业园区职业技术学院 | [链接](http://www.sipits.cn/xwgk1/rczp.htm) | 1.07查看：没有合适的 |
-| 苏州农业职业学院 | [链接](https://www.szai.edu.cn/rsc/rczp.htm) | 1.07查看：没有合适的 |
+| 苏州农业职业技术学院 | [链接](https://www.szai.edu.cn/rsc/rczp.htm) | 1.07查看：没有合适的 |
+| 苏州市职业大学 | [链接](https://www.jssvc.edu.cn/zpxx/) | 1.09查看：没有合适的 |
+| 苏州百年职业学院 | [链接](http://www.scc.edu.cn/zaopin/) | 1.09查看：没有合适的 |
+| 苏州信息职业技术学院 | [链接](http://rsszc.siit.edu.cn/1236/list.htm) | 1.09查看：没有合适的 |
+| 苏州高博软件技术职业学院 | [链接](http://rsc.gist.edu.cn/zpxx/list.htm) | 1.09查看：没有合适的 |
+| 苏州工业园区服务外包职业学院 | [链接](http://www.siso.edu.cn/) | 1.09查看：没有合适的 |
+| 苏州健雄职业技术学院 | [链接](http://www.wjxvtc.cn/gbrmwryzp/list.htm) | 1.09查看：没有合适的 |
+
 
 ## 杭州
 ### 一本学校
@@ -212,6 +237,7 @@
 | 杭州师范大学 | [链接](https://rsc.hznu.edu.cn/rczp/) | 1.07查看：没有合适的 |
 | 浙江财经大学 | [链接](https://rsc.zufe.edu.cn/rczp1.htm) | 1.07查看：没有合适的 |
 | 浙江中医药大学 | [链接](https://rsc.zcmu.edu.cn/rczp.htm) | 1.07查看：没有合适的 |
+
 
 ### 二本学校
 | 学校 | 人事网址 | 信息 & 备注 |
@@ -229,6 +255,7 @@
 | 杭州医学院学院 | [链接](http://rsc.hmc.edu.cn/) | 1.07查看：没有合适的 |
 | 杭州电子科技大学信息工程学院 | [链接](http://hzieeqsh.hdu.edu.cn/index.php?c=index&a=news_list&catid=94&web=organization) | 1.07查看：没有合适的 |
 | 浙江理工大学科技与艺术学院 | [链接](http://www.ky.zstu.edu.cn/index/tzgg.htm) | 1.07查看：没有合适的 |
+
 
 ### 其他学校
 | 学校 | 人事网址 | 信息 & 备注 |
@@ -249,6 +276,7 @@
 | 杭州万向职业技术学院 | [链接](https://www.wxpoly.cn/189/list.htm) | 1.09查看：没有合适的 |
 | 浙江育英职业技术学院 | [链接](http://www.zjyyc.com/szzp/zpxx/) | 1.09查看：没有合适的 |
 
+
 ## 成都
 ### 一本学校
 | 学校 | 人事网址 | 信息 & 备注 |
@@ -263,6 +291,7 @@
 | 西南民族大学 | [链接](http://zzrsb.swun.edu.cn/rczp/zpxx.htm) | 12.25查看：没有合适的 |
 | 成都信息工程大学 | [链接](http://rsc.cuit.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1251) | 12.25查看：没有合适的 |
 | 成都中医药大学 | [链接](https://cdutcm.edu.cn/rsc/rczp) | 12.25查看：没有合适的 |
+
 
 ### 二本学校
 | 学校 | 人事网址 | 信息 & 备注 |
@@ -297,6 +326,7 @@
 | 湖南中医药大学 | [链接](https://www.hnucm.edu.cn/search_list-lm.jsp?wbtreeid=1048) | 12.26查看：没有合适的 |
 | 湖南农业大学 | [链接](https://zp.hunau.edu.cn/product/recruit/defalt/recruitNotice.jsp?FM_SYS_ID=zpxt) | 12.26查看：没有合适的 |
 
+
 ### 二本学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
@@ -309,6 +339,7 @@
 | 湖南涉外经济学院 | [链接](http://rsc.hieu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1002) | 12.26查看：没有合适的 |
 | 湖南女子学院 | [链接](http://rczp.hnwu.edu.cn/index.portal?.ym=p162) | 12.26查看：没有合适的 |
 | 长沙师范学院 | [链接](http://rsc.cssf.cn/column/rcyj/index.shtml) | 12.26查看：没有合适的 |
+
 
 ### 其他学校
 
@@ -324,6 +355,7 @@
 | 重庆交通大学 | [链接](http://rsc.cqjtu.edu.cn/ejlby.jsp?urltype=tree.TreeTempUrl&wbtreeid=1055) | 12.26查看：[2.招生与就业工作处;3.管委会](http://rsc.cqjtu.edu.cn/info/1055/1934.htm)  [岗位](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E9%87%8D%E5%BA%86%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6.png)|
 | 四川外国语大学 | [链接](http://rsc.sisu.edu.cn/tz.htm) | 12.26查看：没有合适的 |
 | 陆军军医大学 | [链接](https://www.tmmu.edu.cn/news.aspx?cid=1) | 12.26查看：没有合适的 |
+
 
 ### 二本学校
 | 学校 | 人事网址 | 信息 & 备注 |
@@ -343,6 +375,7 @@
 | 重庆工商大学派斯学院 | [链接](http://rsc.paisi.edu.cn/NewsClass.asp?BigClass=259) | 12.26查看：没有合适的 |
 | 四川外国语大学重庆南方翻译学院 | [链接](http://www.tcsisu.com/rsc/zhaopinxinxi/zhaopinxinxi/) | 12.26查看：没有合适的 |
 | 四川美术学院 | [链接](https://www.scfai.edu.cn/rsc/zpxx.htm) | 12.26查看：没有合适的 |
+
 
 ### 其他学校
 | 学校 | 人事网址 | 信息 & 备注 |
