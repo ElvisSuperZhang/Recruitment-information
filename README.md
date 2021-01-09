@@ -227,12 +227,21 @@
 ### 其他学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
-| 浙江医药高等专科学校 | [链接](https://www.zjpc.net.cn/xxgk/rczp.htm) | 1.08查看：没有合适的 |
-| 浙江交通职业技术学校 | [链接](http://www.zjvtit.edu.cn/szdw/rcyj.htm) | 1.08查看：没有合适的 |
-
-
-
-
+| 浙江交通职业技术学校 | [链接](http://www.zjvtit.edu.cn/szdw/rcyj.htm) | 1.09查看：没有合适的 |
+| 杭州金融职业学院 | [链接](http://rszp.zfc.edu.cn/zpNew/index.do) | 1.09查看：没有合适的 |
+| 浙江建设职业技术学院 | [空](http://rczp.zjjy.net/) | 1.09查看：没有合适的 |
+| 浙江商业职业技术学院 | [链接](http://www.zjbc.edu.cn/zp/content/?sid=4) | 1.09查看：没有合适的 |
+| 杭州职业技术学院 | [链接](https://www.hzvtc.edu.cn/szdw/rcyj.htm) | 1.09查看：没有合适的 |
+| 浙江经贸职业技术学院 | [链接](http://zp.zjiet.edu.cn/#) | 1.09查看：没有合适的 |
+| 浙江警官职业学院 | [链接](https://www.zjjy.com.cn/19/list.htm) | 1.09查看：没有合适的 |
+| 浙江旅游职业学院 | [链接](http://60.191.79.174:8081/index) | 1.09查看：没有合适的 |
+| 浙江机电职业技术学院 | [链接](http://zime.edu.wy5u.cn/) | 1.09查看：没有合适的 |
+| 浙江经济职业技术学院 | [链接](https://rsc.zjtie.edu.cn/gkzp/zpxx.htm) | 1.09查看：没有合适的 |
+| 杭州科技职业技术学院 | [链接](http://www.hzpt.edu.cn/Talent/?action=newsList&cid=665) | 1.09查看：没有合适的 |
+| 浙江长征职业技术学院 | [链接](http://www.zjczxy.cn/category/hr) | 1.09查看：没有合适的 |
+| 浙江艺术职业学院 | [链接](http://www.zj-art.com/depment/list.aspx?did=30&tid=96) | 1.09查看：没有合适的 |
+| 杭州万向职业技术学院 | [链接](https://www.wxpoly.cn/189/list.htm) | 1.09查看：没有合适的 |
+| 浙江育英职业技术学院 | [链接](http://www.zjyyc.com/szzp/zpxx/) | 1.09查看：没有合适的 |
 
 ## 成都
 ### 一本学校
