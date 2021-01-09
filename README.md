@@ -107,7 +107,13 @@
 | 上海建桥学院 | [链接](https://www.gench.edu.cn/rsc/747/list.htm) | 1.04查看：[校友会和基金会岗位工作人员](https://www.gench.edu.cn/rsc/2020/1201/c7356a97648/page.htm) |
 | 上海行健职业学院 | [链接](http://www.shxj.edu.cn/jgsz1/dzjg/rsc/rczp.htm) | 1.04查看：没有合适的 |
 | 上海工商外国语职业学院 | [链接](https://rsc.sicfl.edu.cn/main.htm) | 1.04查看：没有合适的 |
-| 上海立达职业技术学院 | [链接](http://www.lidapoly.edu.cn/znbm/rsc/A070202index_1.htm) | 1.04查看：[科研处 行政专员、信息学院 行政教秘](http://www.lidapoly.edu.cn/znbm/rsc/webinfo/2020/12/1610398098083871.htm) |
+| 上海立达学院 | [链接](http://www.lidapoly.edu.cn/znbm/rsc/A070202index_1.htm) | 1.04查看：[科研处 行政专员、信息学院 行政教秘](http://www.lidapoly.edu.cn/znbm/rsc/webinfo/2020/12/1610398098083871.htm) |
+| 上海震旦职业学院 | [链接](http://public-info.aurora-college.cn/281/list.htm) | 1.09查看：没有合适的 |
+| 上海民航职业技术学院 | [链接](https://www.shcac.edu.cn/tzgg/gg.htm) | 1.09查看：没有合适的 |
+| 上海旅游高等专科学校 | [链接](http://zzrsc.sitsh.edu.cn/website/index.do?dispatch=otherMemu&type=A1501) | 1.09查看：[行政管理](http://zzrsc.sitsh.edu.cn/website/index.do?dispatch=otherMemu&type=A1503) |
+| 上海城建职业学院 | [链接](https://www.succ.edu.cn/rsc/Home/Type/type/lmid/1b6501234192c95b23536d1162465745) | 1.09查看：没有合适的 |
+| 上海东海职业技术学院 | [链接](https://hr.esu.edu.cn/295/list.htm) | 1.09查看：没有合适的 |
+| 上海电子信息职业技术学院 | [链接](http://xxgk.stiei.edu.cn/1280/list.htm) | 1.09查看：没有合适的 |
 
 ## 南京
 ### 一本学校
