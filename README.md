@@ -411,21 +411,18 @@
 ### 其他学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
-| 重庆工程职业技术学院 | [链接](https://www.cqvie.edu.cn/rsc/szdw/rcyj.htm) | 12.26查看：没有合适的 |
-| 重庆交通职业学院 | [链接](http://www.cqjy.edu.cn/Manage/News.aspx?Tid=2094&Typeid=22) | 12.26查看：没有合适的 |
-| 重庆旅游职业学院 | [链接](http://www.cqvit.com/search.asp) | 12.26查看：没有合适的 |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 重庆工程职业技术学院 | [链接](https://www.cqvie.edu.cn/rsc/szdw/rcyj.htm) | 1.09查看：没有合适的 |
+| 重庆交通职业学院 | [链接](http://www.cqjy.edu.cn/Manage/News.aspx?Tid=2094&Typeid=22) | 1.09查看：没有合适的 |
+| 重庆旅游职业学院 | [链接](http://www.cqvit.com/search.asp) | 1.09查看：没有合适的 |
+| 重庆医药高等专科学校 | [链接](http://www.cqyygz.com/rsgl/rszp.htm) | 1.09查看：没有合适的 |
+| 重庆电子工程职业学院 | [链接](https://ohr.cqcet.edu.cn/job.htm) | 1.09查看：没有合适的 |
+| 重庆三峡医药高等专科学校 | [链接](http://www.sxyyc.net/html/18/rczp/) | 1.09查看：没有合适的 |
+| 重庆建筑工程职业学院 | [链接](https://www.cqjzc.edu.cn/Portal/portal/news/news_manage.htm?p=newsBySectionId&id=10054) | 1.09查看：没有合适的 |
+| 重庆财经职业学院 | [链接](http://rsc.cqcfe.com/channel_26705.html) | 1.09查看：没有合适的 |
+| 重庆艺术工程职业学院 | [链接](http://www.cqysxy.com/index.php?m=content&c=index&a=lists&catid=32) | 1.09查看：没有合适的 |
+| 重庆城市管理职业学院 | [链接](http://rsc.cswu.cn:900/hr/front/toList.action?itemType=gkzp&id=2c917f0d6eca46ee016ecacbee5f001d) | 1.09查看：没有合适的 |
+| 重庆电力高等专科学校 | [链接](http://www.cqepc.com.cn/szdw/rcyj_.htm) | 1.09查看：没有合适的 |
+| 重庆航天职业技术学院 | [链接](http://renli.cqepc.cn/channel_16946.html) | 1.09查看：没有合适的 |
+| 重庆信息技术职业学院 | [链接](http://www.cqeec.com/xyrs/list.html?pid=157) | 1.09查看：没有合适的 |
+| 重庆文化艺术职业学院 | [链接](http://www.cqca.edu.cn/index.php?m=content&c=index&a=lists&catid=308) | 1.09查看：没有合适的 |
 
