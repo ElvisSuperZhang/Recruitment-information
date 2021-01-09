@@ -357,6 +357,22 @@
 
 
 ### 其他学校
+| 学校 | 人事网址 | 信息 & 备注 |
+|:------------:|:---------------:|:-----:|
+| 湖南交通职业技术学院 | [链接](http://www.hnjtzy.com.cn/html/834/) | 1.09查看：没有合适的 |
+| 长沙民政职业技术学院 | [链接](http://www.csmzxy.edu.cn/rcyj.htm) | 1.09查看：没有合适的 |
+| 湖南商务职业技术学院 | [链接](http://www.hnswxy.com/zuzhibu/rencaiyinjin/) | 1.09查看：没有合适的 |
+| 长沙南方职业学院 | [链接](http://www.nfdx.net/rcyj/) | 1.09查看：没有合适的 |
+| 湖南大众传媒职业技术学院 | [链接](http://xwgk.hnmmc.cn/rssz/) | 1.09查看：没有合适的 |
+| 湖南科技职业学院 | [链接](http://zzrsc.hnkjxy.net.cn/index.php/item-list-category-12119.shtml) | 1.09查看：没有合适的 |
+| 湖南信息学院 | [链接](http://hr.hnisc.com/column/rczp/index.shtml) | 1.09查看：没有合适的 |
+| 湖南工业职业技术学院 | [链接](http://www.hunangy.com/info/1023/10566.htm) | 1.09查看：没有合适的 |
+| 湖南信息职业技术学院 | [链接](https://www.hniu.cn/rsc/rssz/rszp.htm) | 1.09查看：没有合适的 |
+| 长沙商贸旅游职业技术学院 | [链接](http://www.hncpu.com/xwgk/rcyj.htm) | 1.09查看：没有合适的 |
+| 长沙环境保护职业技术学院 | [链接](http://zzb.cshbxy.com/column/rszp/index.shtml) | 1.09查看：没有合适的 |
+| 湖南生物机电职业技术学院 | [链接](https://rsc.hnbemc.cn/channel/1262/index.html) | 1.09查看：没有合适的 |
+| 湖南机电职业技术学院 | [链接](http://www.hnjdzy.net/department/ren-shi-guan-li-list-0.htm) | 1.09查看：没有合适的 |
+
 
 ## 重庆
 ### 一本学校
@@ -396,8 +412,8 @@
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
 | 重庆工程职业技术学院 | [链接](https://www.cqvie.edu.cn/rsc/szdw/rcyj.htm) | 12.26查看：没有合适的 |
-
-
+| 重庆交通职业学院 | [链接](http://www.cqjy.edu.cn/Manage/News.aspx?Tid=2094&Typeid=22) | 12.26查看：没有合适的 |
+| 重庆旅游职业学院 | [链接](http://www.cqvit.com/search.asp) | 12.26查看：没有合适的 |
 
 
 
