@@ -82,7 +82,7 @@
 | 上海财经大学 | [链接](http://hrweb.sufe.edu.cn/2675/list.htm) | 1.11查看：没有合适的 |
 | 上海大学 | [链接](https://shuhr.shu.edu.cn:8003/) | 1.11查看：没有合适的 |
 | 东华大学 | [链接](http://web.dhu.edu.cn/rschu/5488/list.htm) | 1.11查看：没有合适的 |
-| 上海理工大学 | [链接](https://rc.usst.edu.cn/) | 1.11查看:[国际交流处](https://rc.usst.edu.cn/2021/0106/c8954a241002/page.htm) |
+| 上海理工大学 | [链接](https://rc.usst.edu.cn/) | 1.11查看: [国际交流处](https://rc.usst.edu.cn/2021/0106/c8954a241002/page.htm) |
 | 上海师范大学 | [链接](http://hr.shnu.edu.cn/20784/list.htm) | 1.11查看：没有合适的 |
 | 上海中医药大学 | [链接](https://rsc.shutcm.edu.cn/2641/list.htm) | 1.11查看：没有合适的 |
 | 华东政法大学 | [链接](https://rsc.ecupl.edu.cn/2107/list.htm) | 1.11查看：没有合适的 |
