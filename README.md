@@ -75,7 +75,7 @@
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
 | 复旦大学 | [链接](http://www.hr.fudan.edu.cn/15367/list.htm) | 1.11查看：没有合适的 |
-| 上海交通大学 | [链接](https://join.sjtu.edu.cn/Default.aspx) | 1.查看：[机械与动力工程学院研究生教学管理人员](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=85775e700762431596cb89e60701c249) |
+| 上海交通大学 | [链接](https://join.sjtu.edu.cn/Default.aspx) | 1.11查看：[机械与动力工程学院研究生教学管理人员](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=85775e700762431596cb89e60701c249) |
 | 同济大学 | [链接](https://zp.tongji.edu.cn/index.htm) | 1.11查看：没有合适的 |
 | 华东师范大学 | [链接](http://hr.ecnu.edu.cn/s/116/t/209/p/1/c/3533/d/8800/list.htm) | 1.11查看：[华东师范大学精密光谱科学与技术国家重点实验室 综合管理秘书](http://hr.ecnu.edu.cn/s/116/t/209/b5/8d/info177549.htm) |
 | 华东理工大学 | [链接](https://personnel.ecust.edu.cn/szxl/list.htm) | 1.11查看：没有合适的 |
