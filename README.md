@@ -96,31 +96,31 @@
 ### 二本学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
-| 上海电力学院 | [链接](https://rsc.shiep.edu.cn/1919/list.htm) | 1.04查看：没有合适的 |
-| 上海应用技术大学 | [链接](https://www.sit.edu.cn/_t344/13063/list.psp) | 1.04查看：没有合适的 |
-| 上海立信会计学院 | [链接](https://rsc.lixin.edu.cn/info/iList.jsp?cat_id=13160) | 1.04查看：没有合适的 |
-| 上海第二工业大学 | [链接](http://2016.hr.sspu.edu.cn/info/iList.jsp?cat_id=11735) | 1.04查看：没有合适的 |
-| 上海政法学院 | [链接](http://www.shupl.edu.cn/rsc/1404/list.htm) | 1.04查看：没有合适的 |
-| 上海金融学院 | [链接](https://rsc.lixin.edu.cn/info/iList.jsp?cat_id=10752) | 1.04查看：没有合适的 |
-| 上海电机学院 | [链接](https://hr.sdju.edu.cn/1690/list.htm) | 1.04查看：没有合适的 |
-| 上海海关学院 | [链接](https://rsc.shcc.edu.cn/691/list.htm) | 1.04查看：没有合适的 |
-| 上海商学院 | [链接](https://www.sbs.edu.cn/gbrsc/rczp/index.htm) | 1.04查看：没有合适的 |
+| 上海电力学院 | [链接](https://rsc.shiep.edu.cn/1919/list.htm) | 1.12查看：没有合适的 |
+| 上海应用技术大学 | [链接](https://www.sit.edu.cn/_t344/13063/list.psp) | 1.12查看：没有合适的 |
+| 上海立信会计学院 | [链接](https://rsc.lixin.edu.cn/info/iList.jsp?cat_id=13160) | 1.12查看：没有合适的 |
+| 上海第二工业大学 | [链接](http://2016.hr.sspu.edu.cn/info/iList.jsp?cat_id=11735) | 1.12查看：没有合适的 |
+| 上海政法学院 | [链接](http://www.shupl.edu.cn/rsc/1404/list.htm) | 1.12查看：没有合适的 |
+| 上海金融学院 | [链接](https://rsc.lixin.edu.cn/info/iList.jsp?cat_id=10752) | 1.12查看：没有合适的 |
+| 上海电机学院 | [链接](https://hr.sdju.edu.cn/1690/list.htm) | 1.12查看：没有合适的 |
+| 上海海关学院 | [链接](https://rsc.shcc.edu.cn/691/list.htm) | 1.12查看：没有合适的 |
+| 上海商学院 | [链接](https://www.sbs.edu.cn/gbrsc/rczp/index.htm) | 1.12查看：没有合适的 |
 
 
 ### 其他学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
-| 上海建桥学院 | [链接](https://www.gench.edu.cn/rsc/747/list.htm) | 1.04查看：[校友会和基金会岗位工作人员](https://www.gench.edu.cn/rsc/2020/1201/c7356a97648/page.htm) |
-| 上海行健职业学院 | [链接](http://www.shxj.edu.cn/jgsz1/dzjg/rsc/rczp.htm) | 1.04查看：没有合适的 |
-| 上海工商外国语职业学院 | [链接](https://rsc.sicfl.edu.cn/main.htm) | 1.04查看：没有合适的 |
-| 上海立达学院 | [链接](http://www.lidapoly.edu.cn/znbm/rsc/A070202index_1.htm) | 1.04查看：[科研处 行政专员、信息学院 行政教秘](http://www.lidapoly.edu.cn/znbm/rsc/webinfo/2020/12/1610398098083871.htm) |
-| 上海震旦职业学院 | [链接](http://public-info.aurora-college.cn/281/list.htm) | 1.09查看：没有合适的 |
-| 上海民航职业技术学院 | [链接](https://www.shcac.edu.cn/tzgg/gg.htm) | 1.09查看：没有合适的 |
-| 上海旅游高等专科学校 | [链接](http://zzrsc.sitsh.edu.cn/website/index.do?dispatch=otherMemu&type=A1501) | 1.09查看：[行政管理](http://zzrsc.sitsh.edu.cn/website/index.do?dispatch=otherMemu&type=A1503) |
-| 上海城建职业学院 | [链接](https://www.succ.edu.cn/rsc/Home/Type/type/lmid/1b6501234192c95b23536d1162465745) | 1.09查看：没有合适的 |
-| 上海东海职业技术学院 | [链接](https://hr.esu.edu.cn/295/list.htm) | 1.09查看：没有合适的 |
-| 上海电子信息职业技术学院 | [链接](http://xxgk.stiei.edu.cn/1280/list.htm) | 1.09查看：没有合适的 |
-| 上海济光职业技术学院 | [链接](https://www.shjgu.edu.cn/237/list.htm) | 1.09查看：没有合适的 |
+| 上海建桥学院 | [链接](https://www.gench.edu.cn/rsc/747/list.htm) | 1.12查看：没有合适的 |
+| 上海行健职业学院 | [链接](http://www.shxj.edu.cn/jgsz1/dzjg/rsc/rczp.htm) | 1.12查看：没有合适的 |
+| 上海工商外国语职业学院 | [链接](https://rsc.sicfl.edu.cn/main.htm) | 1.12查看：没有合适的 |
+| 上海立达学院 | [链接](http://www.lidapoly.edu.cn/znbm/rsc/A070202index_1.htm) | 1.12查看：没有合适的 |
+| 上海震旦职业学院 | [链接](http://public-info.aurora-college.cn/281/list.htm) | 1.12查看：没有合适的 |
+| 上海民航职业技术学院 | [链接](https://www.shcac.edu.cn/tzgg/gg.htm) | 1.12查看：没有合适的 |
+| 上海旅游高等专科学校 | [链接](http://zzrsc.sitsh.edu.cn/website/index.do?dispatch=otherMemu&type=A1501) | 1.12查看：没有合适的 |
+| 上海城建职业学院 | [链接](https://www.succ.edu.cn/rsc/Home/Type/type/lmid/1b6501234192c95b23536d1162465745) | 1.12查看：没有合适的 |
+| 上海东海职业技术学院 | [链接](https://hr.esu.edu.cn/295/list.htm) | 1.12查看：没有合适的 |
+| 上海电子信息职业技术学院 | [链接](http://xxgk.stiei.edu.cn/1280/list.htm) | 1.12查看：没有合适的 |
+| 上海济光职业技术学院 | [链接](https://www.shjgu.edu.cn/237/list.htm) | 1.12查看：没有合适的 |
 | 上海出版印刷高等专科学校 | [链接](http://zhaopin.sppc.edu.cn/#!/index.html) | 1.09查看：没有合适的 |
 | 上海工艺美术职业学院 | [链接](http://rsc.sada.edu.cn/zpgw/list.htm) | 1.09查看：没有合适的 |
 | 上海科学技术职业学院 | [链接](http://www.scst.edu.cn/rsc/1119/list.htm) | 1.09查看：没有合适的 |
