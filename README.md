@@ -121,14 +121,14 @@
 | 上海东海职业技术学院 | [链接](https://hr.esu.edu.cn/295/list.htm) | 1.12查看：没有合适的 |
 | 上海电子信息职业技术学院 | [链接](http://xxgk.stiei.edu.cn/1280/list.htm) | 1.12查看：没有合适的 |
 | 上海济光职业技术学院 | [链接](https://www.shjgu.edu.cn/237/list.htm) | 1.12查看：没有合适的 |
-| 上海出版印刷高等专科学校 | [链接](http://zhaopin.sppc.edu.cn/#!/index.html) | 1.09查看：没有合适的 |
-| 上海工艺美术职业学院 | [链接](http://rsc.sada.edu.cn/zpgw/list.htm) | 1.09查看：没有合适的 |
-| 上海科学技术职业学院 | [链接](http://www.scst.edu.cn/rsc/1119/list.htm) | 1.09查看：没有合适的 |
-| 上海工商职业技术学院 | [链接](http://hr.sicp.edu.cn/24470/) | 1.09查看：没有合适的 |
-| 上海中侨职业技术大学 | [链接](http://117.144.202.154/_s30/547/list1.psp) | 1.09查看：没有合适的 |
-| 上海交通职业技术学院 | [链接](http://www.scp.edu.cn/list.aspx?nid=130&cid=329) | 1.09查看：没有合适的 |
-| 上海思博职业技术学院 | [链接](http://edu.shsipo.com/) | 1.09查看：没有合适的 |
-| 上海农林职业技术学院 | [链接](https://rsc.shafc.edu.cn/rczp/list.htm) | 1.09查看：没有合适的 |
+| 上海出版印刷高等专科学校 | [链接](http://zhaopin.sppc.edu.cn/#!/index.html) | 1.12查看：没有合适的 |
+| 上海工艺美术职业学院 | [链接](http://rsc.sada.edu.cn/zpgw/list.htm) | 1.12查看：没有合适的 |
+| 上海科学技术职业学院 | [链接](http://www.scst.edu.cn/rsc/1119/list.htm) | 1.12查看：没有合适的 |
+| 上海工商职业技术学院 | [链接](http://hr.sicp.edu.cn/24470/) | 1.12查看：没有合适的 |
+| 上海中侨职业技术大学 | [链接](http://117.144.202.154/_s30/547/list1.psp) | 1.12查看：没有合适的 |
+| 上海交通职业技术学院 | [链接](http://www.scp.edu.cn/list.aspx?nid=130&cid=329) | 1.12查看：没有合适的 |
+| 上海思博职业技术学院 | [链接](http://edu.shsipo.com/) | 1.12查看：没有合适的 |
+| 上海农林职业技术学院 | [链接](https://rsc.shafc.edu.cn/rczp/list.htm) | 1.12查看：没有合适的 |
 
 
 ## 南京
