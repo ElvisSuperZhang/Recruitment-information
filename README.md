@@ -200,10 +200,10 @@
 ### 二本学校
 | 学校 | 人事网址 | 信息 & 备注 |
 |:------------:|:---------------:|:-----:|
-| 常熟理工学院 | [链接](https://zp.cslg.edu.cn/zpxx1/qtry.htm) | 1.06查看：没有合适的 |
-| 苏州大学文正学院 | [链接](http://rsc.sdwz.cn/342/list.htm) | 1.06查看：没有合适的 |
-| 苏州科技大学天平学院 | [链接](http://tpxy.usts.edu.cn/news/news_more.asp?lm2=31) | 1.06查看：没有合适的 |
-| 江苏科技大学苏州理工学院 | [链接](http://justsit.edu.cn/51/list.htm) | 1.06查看：没有合适的 |
+| 常熟理工学院 | [链接](https://zp.cslg.edu.cn/zpxx1/qtry.htm) | 1.14查看：没有合适的 |
+| 苏州大学文正学院 | [链接](http://rsc.sdwz.cn/342/list.htm) | 1.14查看：没有合适的 |
+| 苏州科技大学天平学院 | [链接](http://tpxy.usts.edu.cn/news/news_more.asp?lm2=31) | 1.14查看：没有合适的 |
+| 江苏科技大学苏州理工学院 | [链接](http://justsit.edu.cn/51/list.htm) | 1.14查看：没有合适的 |
 
 
 ### 其他学校
