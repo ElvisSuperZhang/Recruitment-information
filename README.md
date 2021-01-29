@@ -10,6 +10,10 @@
 - [华中师范大学-社会学院行政管理岗](http://hr.ccnu.edu.cn/info/1004/5233.htm)   [附件第一页](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A62021%E5%B9%B4%E7%AE%A1%E7%90%86%E5%B2%97%E4%BD%8D%E6%8B%9B%E8%81%98%E8%A6%81%E6%B1%82%E5%8F%8A%E8%AE%A1%E5%88%92(%E7%AC%AC%E4%B8%80%E9%A1%B5).png)   [附件第二页](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A62021%E5%B9%B4%E7%AE%A1%E7%90%86%E5%B2%97%E4%BD%8D%E6%8B%9B%E8%81%98%E8%A6%81%E6%B1%82%E5%8F%8A%E8%AE%A1%E5%88%92%EF%BC%88%E7%AC%AC%E4%BA%8C%E9%A1%B5%EF%BC%89.png)<br/>
 - [上海应用技术大学-国际交流处](https://www.sit.edu.cn/_t344/2021/0108/c13063a192511/page.psp) <br/>
 
+## 【1月29日】
+- [首都师范大学-行政管理](https://www.cnu.edu.cn/rczp/2015ncpyxrc/185074.htm)   [附件1](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E9%A6%96%E9%83%BD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A61.png)
+[附件2](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E9%A6%96%E9%83%BD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A62.png)
+
 
 
 
