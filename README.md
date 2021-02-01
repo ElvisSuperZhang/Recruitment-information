@@ -14,6 +14,21 @@
 - [首都师范大学-行政管理](https://www.cnu.edu.cn/rczp/2015ncpyxrc/185074.htm)   [附件1](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E9%A6%96%E9%83%BD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A61.png)
 [附件2](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E9%A6%96%E9%83%BD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A62.png)
 
+## 【2月1日】
+- [上海交通大学-研究生院 专业学位教育管理岗&研究生教学管理岗](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=7c98682c30bd483294f4d1b3d9f34219) <br/>
+- [同济大学-国际文化交流学院 学院办公室行政管理人员](https://zp.tongji.edu.cn/content.jsp?urltype=tree.TreeTempUrl&wbtreeid=1021&wid=db67428ce9424f5abf0c5080fd01dd0a) <br/>
+- [上海大学-经济学院 研究生教学秘书管理岗位](https://shuhr.shu.edu.cn:8003/Ads/Ads?a=f05cc9cf-3dcc-44f5-a872-40e42461fa4f) <br/>
+- [上海大学-经济学院 本科生教学秘书管理岗位](https://shuhr.shu.edu.cn:8003/Ads/Ads?a=3bf720c7-ed02-40e7-b7fe-51837388f55c) <br/>
+- [上海大学-经济学院 外联秘书管理岗位](https://shuhr.shu.edu.cn:8003/Ads/Ads?a=273a9430-d6a5-4020-9fcb-2c66c9567e64) <br/>
+- [上海理工大学-外语学院-教学辅助岗位](https://rc.usst.edu.cn/2021/0125/c8951a241716/page.htm) <br/>
+- [上海师范大学-4.1、11.1、15.1](http://hr.shnu.edu.cn/32/fe/c20784a733950/page.htm) <br/>
+- [上海电力大学-实验室与资产管理处岗位](https://rsc.shiep.edu.cn/4e/c6/c1919a216774/page.htm) <br/>
+- [上海应用技术大学-国际交流处](https://www.sit.edu.cn/_t344/2021/0108/c13063a192511/page.psp) <br/>
+- [上海应用技术大学-电气与电子工程学院-行政秘书](https://www.sit.edu.cn/_t344/2021/0125/c13063a193185/page.psp) <br/>
+
+
+
+
 
 
 
