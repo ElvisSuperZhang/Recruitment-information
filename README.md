@@ -24,7 +24,7 @@
 - [上海师范大学-4.1、11.1、15.1](http://hr.shnu.edu.cn/32/fe/c20784a733950/page.htm) <br/>
 - [上海电力大学-实验室与资产管理处岗位-3月1日截止](https://rsc.shiep.edu.cn/4e/c6/c1919a216774/page.htm) <br/>
 - [上海应用技术大学-国际交流处-2月24日](https://www.sit.edu.cn/_t344/2021/0108/c13063a192511/page.psp) <br/>
-- [上海应用技术大学-电气与电子工程学院-行政秘书](https://www.sit.edu.cn/_t344/2021/0125/c13063a193185/page.psp) <br/>
+- [上海应用技术大学-电气与电子工程学院-行政秘书-3月10日截止](https://www.sit.edu.cn/_t344/2021/0125/c13063a193185/page.psp) <br/>
 
 ## 【2月4日】
 - [北京外国语大学-行政管理岗及教辅岗-3月1日截止](https://hr.bfsu.edu.cn/hr/bjwgydx/recruit/a.epx?action=recruitView&entityId=T_RECRUIT_POST&selectedId=799) <br/>
