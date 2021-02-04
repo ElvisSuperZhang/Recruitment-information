@@ -23,7 +23,7 @@
 - [上海理工大学-外语学院-教学辅助岗位](https://rc.usst.edu.cn/2021/0125/c8951a241716/page.htm) <br/>
 - [上海师范大学-4.1、11.1、15.1](http://hr.shnu.edu.cn/32/fe/c20784a733950/page.htm) <br/>
 - [上海电力大学-实验室与资产管理处岗位-3月1日截止](https://rsc.shiep.edu.cn/4e/c6/c1919a216774/page.htm) <br/>
-- [上海应用技术大学-国际交流处](https://www.sit.edu.cn/_t344/2021/0108/c13063a192511/page.psp) <br/>
+- [上海应用技术大学-国际交流处-2月24日](https://www.sit.edu.cn/_t344/2021/0108/c13063a192511/page.psp) <br/>
 - [上海应用技术大学-电气与电子工程学院-行政秘书](https://www.sit.edu.cn/_t344/2021/0125/c13063a193185/page.psp) <br/>
 
 ## 【2月4日】
