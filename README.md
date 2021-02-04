@@ -28,11 +28,8 @@
 
 ## 【2月4日】
 - [北京外国语大学-行政管理岗及教辅岗-3月1日截止](https://hr.bfsu.edu.cn/hr/bjwgydx/recruit/a.epx?action=recruitView&entityId=T_RECRUIT_POST&selectedId=799) <br/>
-
-
-
-
-
+- [南京大学-国际合作与交流处-2月10日截止](https://rczp.nju.edu.cn/fzlm/gwxqty/index.html?i=1120&t=1) <br/>
+- [南京航空航天大学-经济与管理学院-研究生教务员-2月22日截止](http://rsc.nuaa.edu.cn/2021/0128/c381a230746/page.htm) <br/>
 
 
 
