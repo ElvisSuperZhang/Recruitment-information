@@ -26,6 +26,9 @@
 - [上海应用技术大学-国际交流处](https://www.sit.edu.cn/_t344/2021/0108/c13063a192511/page.psp) <br/>
 - [上海应用技术大学-电气与电子工程学院-行政秘书](https://www.sit.edu.cn/_t344/2021/0125/c13063a193185/page.psp) <br/>
 
+## 【2月4日】
+- [北京外国语大学-行政管理岗及教辅岗-3月1日截止](https://hr.bfsu.edu.cn/hr/bjwgydx/recruit/a.epx?action=recruitView&entityId=T_RECRUIT_POST&selectedId=799) <br/>
+
 
 
 
