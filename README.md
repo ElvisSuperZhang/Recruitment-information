@@ -32,4 +32,14 @@
 - [南京航空航天大学-经济与管理学院-研究生教务员-2月22日截止](http://rsc.nuaa.edu.cn/2021/0128/c381a230746/page.htm) <br/>
 - [光明日报社-评论部、理论部、国内部、国际部采编2 & 文艺部采编2-2月28日截止](https://guangmingdaily.zhiye.com/Campus) <br/>
 
+## 【2月6日】
+- [中国青年创业就业基金会-综合处、项目处综合岗-3月31日截止](http://www.yee.org.cn/gywm/zpxx/202003/t20200309_12230569.htm) [附件](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E5%88%9B%E4%B8%9A%E5%9F%BA%E9%87%91%E4%BC%9A.png) <br/>
+
+
+
+
+
+
+
+
 
