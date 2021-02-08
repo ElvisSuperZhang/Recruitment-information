@@ -35,7 +35,8 @@
 ## 【2月6日】
 - [中国青年创业就业基金会-综合处、项目处综合岗-3月31日截止](http://www.yee.org.cn/gywm/zpxx/202003/t20200309_12230569.htm) [附件](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E5%88%9B%E4%B8%9A%E5%9F%BA%E9%87%91%E4%BC%9A.png) <br/>
 
-
+## 【2月8日】
+- [滁州学院-管理教辅岗(人事处)-3月15日截止](https://rsc.chzu.edu.cn/2021/0203/c3323a226897/page.htm) 
 
 
 
