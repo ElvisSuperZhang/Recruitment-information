@@ -38,6 +38,9 @@
 ## 【2月8日】
 - [滁州学院-管理教辅岗(人事处)-3月15日截止-邮箱投递](https://rsc.chzu.edu.cn/2021/0203/c3323a226897/page.htm) 
 
+## 【2月13日】
+- [湖北工业大学-4月15日截止-系统投递](http://rst.hubei.gov.cn/bmdt/ztzl/hbsszsydwgkzp/zpgg/202102/t20210207_3340608.shtml) [招聘系统链接-现在还没新增这些岗位，没发申请](http://rst.hubei.gov.cn/bmdt/ztzl/hbsszsydwgkzp/zpgg/202102/t20210207_3340608.shtml)可以报的岗位有22、25、34、35，[附件1]()、[附件2]()、[附件3]()、[附件4]()
+
 
 
 
