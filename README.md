@@ -39,7 +39,7 @@
 - [滁州学院-管理教辅岗(人事处)-3月15日截止-邮箱投递](https://rsc.chzu.edu.cn/2021/0203/c3323a226897/page.htm) 
 
 ## 【2月13日】
-- [湖北工业大学-4月15日截止-系统投递](http://rst.hubei.gov.cn/bmdt/ztzl/hbsszsydwgkzp/zpgg/202102/t20210207_3340608.shtml) ;  [招聘系统链接-现在还没新增这些岗位，没发申请](http://rst.hubei.gov.cn/bmdt/ztzl/hbsszsydwgkzp/zpgg/202102/t20210207_3340608.shtml);  可以报的岗位有22、25、34、35（附件3和4），[附件1](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E6%B9%96%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A61.png)、  [附件2](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E6%B9%96%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A62.png)、  [附件3](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E6%B9%96%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A63.png)、  [附件4](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E6%B9%96%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A64.png)
+- [湖北工业大学-4月15日截止-系统投递](http://rst.hubei.gov.cn/bmdt/ztzl/hbsszsydwgkzp/zpgg/202102/t20210207_3340608.shtml) ;  [招聘系统链接-现在还没新增这些岗位，没法申请](http://rst.hubei.gov.cn/bmdt/ztzl/hbsszsydwgkzp/zpgg/202102/t20210207_3340608.shtml);  可以报的岗位有22、25、34、35（附件3和4），[附件1](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E6%B9%96%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A61.png)、  [附件2](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E6%B9%96%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A62.png)、  [附件3](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E6%B9%96%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A63.png)、  [附件4](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E6%B9%96%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A64.png)
 
 
 
