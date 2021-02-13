@@ -7,12 +7,12 @@
 - [上海科技大学大道书院-学生教育管理岗](https://jobs.shanghaitech.edu.cn/_s57/_t119/00/00/c4206a0/page.psp?_p=YXM9NTcmcD0xJm09TiY_&keyword=%E5%A4%A7%E9%81%93%E4%B9%A6%E9%99%A2%E6%8B%9B%E8%81%98%E5%AD%A6%E7%94%9F%E6%95%99%E8%82%B2%E7%AE%A1%E7%90%86%E5%B2%971%E4%BA%BA) <br/>
 
 ## 【1月20日】
-- [华中师范大学-社会学院行政管理岗](http://hr.ccnu.edu.cn/info/1004/5233.htm);[附件第一页](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A62021%E5%B9%B4%E7%AE%A1%E7%90%86%E5%B2%97%E4%BD%8D%E6%8B%9B%E8%81%98%E8%A6%81%E6%B1%82%E5%8F%8A%E8%AE%A1%E5%88%92(%E7%AC%AC%E4%B8%80%E9%A1%B5).png);[附件第二页](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A62021%E5%B9%B4%E7%AE%A1%E7%90%86%E5%B2%97%E4%BD%8D%E6%8B%9B%E8%81%98%E8%A6%81%E6%B1%82%E5%8F%8A%E8%AE%A1%E5%88%92%EF%BC%88%E7%AC%AC%E4%BA%8C%E9%A1%B5%EF%BC%89.png)<br/>
+- [华中师范大学-社会学院行政管理岗](http://hr.ccnu.edu.cn/info/1004/5233.htm);  [附件第一页](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A62021%E5%B9%B4%E7%AE%A1%E7%90%86%E5%B2%97%E4%BD%8D%E6%8B%9B%E8%81%98%E8%A6%81%E6%B1%82%E5%8F%8A%E8%AE%A1%E5%88%92(%E7%AC%AC%E4%B8%80%E9%A1%B5).png);  [附件第二页](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E5%8D%8E%E4%B8%AD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A62021%E5%B9%B4%E7%AE%A1%E7%90%86%E5%B2%97%E4%BD%8D%E6%8B%9B%E8%81%98%E8%A6%81%E6%B1%82%E5%8F%8A%E8%AE%A1%E5%88%92%EF%BC%88%E7%AC%AC%E4%BA%8C%E9%A1%B5%EF%BC%89.png)<br/>
 - [上海应用技术大学-国际交流处](https://www.sit.edu.cn/_t344/2021/0108/c13063a192511/page.psp) <br/>
 
 ## 【1月29日】
-- [首都师范大学-行政管理](https://www.cnu.edu.cn/rczp/2015ncpyxrc/185074.htm);[附件1](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E9%A6%96%E9%83%BD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A61.png);
-[附件2](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E9%A6%96%E9%83%BD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A62.png)
+- [首都师范大学-行政管理](https://www.cnu.edu.cn/rczp/2015ncpyxrc/185074.htm);  [附件1](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E9%A6%96%E9%83%BD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A61.png);
+  [附件2](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E9%A6%96%E9%83%BD%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A62.png)
 
 ## 【2月1日】
 - [上海交通大学-研究生院 专业学位教育管理岗&研究生教学管理岗](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=7c98682c30bd483294f4d1b3d9f34219) <br/>
@@ -39,7 +39,7 @@
 - [滁州学院-管理教辅岗(人事处)-3月15日截止-邮箱投递](https://rsc.chzu.edu.cn/2021/0203/c3323a226897/page.htm) 
 
 ## 【2月13日】
-- [湖北工业大学-4月15日截止-系统投递](http://rst.hubei.gov.cn/bmdt/ztzl/hbsszsydwgkzp/zpgg/202102/t20210207_3340608.shtml) ;[招聘系统链接-现在还没新增这些岗位，没发申请](http://rst.hubei.gov.cn/bmdt/ztzl/hbsszsydwgkzp/zpgg/202102/t20210207_3340608.shtml);可以报的岗位有22、25、34、35，[附件1]()、[附件2]()、[附件3]()、[附件4]()
+- [湖北工业大学-4月15日截止-系统投递](http://rst.hubei.gov.cn/bmdt/ztzl/hbsszsydwgkzp/zpgg/202102/t20210207_3340608.shtml) ;  [招聘系统链接-现在还没新增这些岗位，没发申请](http://rst.hubei.gov.cn/bmdt/ztzl/hbsszsydwgkzp/zpgg/202102/t20210207_3340608.shtml);  可以报的岗位有22、25、34、35，[附件1]()、  [附件2]()、  [附件3]()、  [附件4]()
 
 
 
