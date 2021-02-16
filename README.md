@@ -33,7 +33,7 @@
 - [光明日报社-评论部、理论部、国内部、国际部采编2 & 文艺部采编2-2月28日截止](https://guangmingdaily.zhiye.com/Campus) <br/>
 
 ## 【2月6日】
-- [中国青年创业就业基金会-综合处、项目处综合岗-3月31日截止](http://www.yee.org.cn/qywwxdt/202102/t20210207_12700157.htm);[附件](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E5%88%9B%E4%B8%9A%E5%9F%BA%E9%87%91%E4%BC%9A.png) <br/>
+- [中国青年创业就业基金会-综合处、项目处综合岗-2月28日截止](http://www.yee.org.cn/qywwxdt/202102/t20210207_12700157.htm);[附件](https://github.com/ElvisSuperZhang/Pictures/blob/main/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E5%88%9B%E4%B8%9A%E5%B0%B1%E4%B8%9A%E5%9F%BA%E9%87%91%E4%BC%9A.png) <br/>
 
 ## 【2月8日】
 - [滁州学院-管理教辅岗(人事处)-3月15日截止-邮箱投递](https://rsc.chzu.edu.cn/2021/0203/c3323a226897/page.htm) 
